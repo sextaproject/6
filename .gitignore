@@ -1,0 +1,92 @@
+# Environment Variables (NEVER COMMIT THESE!)
+.env
+.env.local
+.env.*.local
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.log
+*.pot
+*.pyc
+db.sqlite3
+db.sqlite3-journal
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# Django
+*.log
+local_settings.py
+staticfiles/
+media/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# ML Models (optional - if models are too large)
+# 6Back/Rx/ml_models/*.h5
+# 6Back/Rx/ml_models/*.keras
+
+# Database
+*.sqlite3
+
+# Node (Frontend)
+node_modules/
+6Front/dist/
+6Front/dist-ssr/
+6Front/build/
+6Front/.next/
+6Front/out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pnpm-debug.log*
+
+# Project misc
+m.txt
+mot.txt
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
