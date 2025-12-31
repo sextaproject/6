@@ -1,0 +1,87 @@
+python3 -m venv vSix
+source vSix/bin/activate
+pip3 install -r requirements.txt
+
+python3 -m pip install django
+python3 -m pip install djangorestframework
+python3 -m pip install django-cors-headers
+python3 -m pip install whitenoise
+python3 -m pip install gunicorn
+
+django-admin startproject SextaProject .
+
+python3 manage.py migrate
+python3 manage.py makemigrations 
+python3 manage.py runserver
+
+pip3 freeze > requirements.txt
+
+python3 manage.py startapp pH
+python3 manage.py createsuperuser
+
+python3 manage.py collectstatic
+
+
+-------- REACT --------------
+
+npm create vite@latest react6 -- --template react
+cd react6
+npm install
+npm run dev
+npm install react-router-dom axios @mui/material @emotion/react @emotion/styled @mui/icons-material
+npm install framer-motion lucide-react heic2any
+
+
+
+----------- POSTGRES ----------------
+brew services stop postgresql
+brew services start postgresql@14
+psql -U postgres
+
+\q
+
+psql -U postgres -c "CREATE DATABASE pharmaGo_DB;"
+psql -U postgres -c "CREATE USER saibogu WITH PASSWORD 'Ars0121';"
+psql -U postgres -c "GRANT ALL PRIVILEGES ON DATABASE pharmaGo_DB TO saibogu;"
+
+To start postgresql@14 now and restart at login:
+  brew services start postgresql@14
+Or, if you don't want/need a background service you can just run:
+  /opt/homebrew/opt/postgresql@14/bin/postgres -D /opt/homebrew/var/postgresql@14
+
+
+CREATE ROLE postgres WITH LOGIN SUPERUSER PASSWORD 'your_desired_password';
+
+_----- DOCK ----------
+docker-compose build
+docker-compose up
+
+docker-compose exec backend python manage.py makemigrations pharmaGo
+docker-compose exec backend python manage.py migrate
+docker-compose exec backend python manage.py cv_2_db pharmaGo/management/commands/meds.csv
+
+
+
+
+
+SHA256:QD/ibnkL8zjxj8OG5N/I90I1xWbt+1e+KmsKC4oyEnk thesextaproject@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|      .      . . |
+|     . .      = .|
+|      o o    + . |
+|     . o .  o   .|
+| .    . S  . .  .|
+|o E  .o.  .    ..|
+| o   +**..     .o|
+|+ . ..=BB=oo    +|
+|oo .  .=B==++...o|
++----[SHA256]-----+
+
+
+
+
+
+
+
+Hi, please create a react web based app, for medical flashcards. So, do each step at a time, and let me approve each one before proceding. 1. Create a react app npm (use vite or whatever you consider best for this purpose). 2. Create a components folder with a flash.js or jsx depends. 3. On flash, set up the pages logic. For the logic: 4. Give me a minimalistc, web app, with a flashcard that: can be cliked for turning, counts the number of flashcards done and availabe. 5. Use for style white colors palate, maybe blue also based on a medical app. 6. Decide how to store the flash card information, I plan to host this app freely on firebase, so maybe usingn a firebase db is better ? or maybe using a json type file to store flashcards information would be better, tell me which approach is better and why. 7. based on the DB approach, create the db of the flashcards, For example:  antibiotic name as front and back would be the mechanism of action, or maybe the enzybe it inhibits, and so on. Add 10 - 20 examples for testing fucntionality. 8. Run the app locally and test for functionality. 

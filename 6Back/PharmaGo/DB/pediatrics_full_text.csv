@@ -1,0 +1,3863 @@
+name,drug_type,drug.standard_dose,drug.dose_frequency,drug.max_dose,drug.administration_route,drug.drug_use,drug.adverse_effects,drug.contraindications,drug.pediatric,full_safety_text,cat_pregnancy,cat_lactation,cat_liver,cat_kidney
+"Abacavir, sulfato (ABC)",Antirretroviral (INTR),"3 meses - 15 años: 16 mg/kg/día
+
+>12 años: 300 mg",c/12 h,600 mg/día,VO (Oral),VIH / Terapia antirretroviral,"Emb: C
+
+Lact: Precaución (B)","Hígado: Reducir Dosis (↓)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Reducir Dosis (↓)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,Disminuir la dosis,No requiere ajuste
+Abacavir / Lamivudina,Antirretroviral (INTR),>12 años (>40kg): 300 mg (ABC) / 300 mg (3TC),c/12 h,600 mg/día,VO (Oral),VIH / Terapia antirretroviral,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Abacavir / Lamivudina / Zidovudina,Antirretroviral (INTR),>12 años (>40kg): 1 tableta (300/150/300 mg),c/12 h,No especificado,VO (Oral),VIH / Terapia antirretroviral,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Abatacept,Inmunosupresor,"<60 kg: 500 mg
+
+60-100 kg: 750 mg","Semanas 0, 2, 4, luego cada 4 semanas",No especificado,IV (Infusión 30 min),Enfermedades autoinmunes (Artritis),"Emb: C
+
+Lact: Usar con reserva (B*)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Usar con reserva (B*) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Usar con reserva (Sin datos),No requiere ajuste,No requiere ajuste
+Acarbosa,Hipoglicemiante oral,"<60 kg: 50 mg/dosis
+
+>60 kg: 100 mg/dosis",Con las comidas,No especificado,VO (Oral),Diabetes (Inhibidor alfa-glucosidasa),"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Acebrofilina,Mucolítico,3 - 4 mg/kg/día,c/12 h,No especificado,VO (Oral),Limpieza de secreciones respiratorias,No especificado,No especificado,yes,No especificado | No especificado,,,,
+Aceite mineral (Parafina líquida),"Laxante, lubricante",0.5 ml/kg/dosis,Aplicar tópicamente con masajes,No especificado,Tópico / VO,Estreñimiento / Hidratación piel,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Aceite de ricino (Oleum ricini),Laxante estimulante,1 - 5 ml (Dosis Única),Dosis Única,15 - 60 ml/día,VO (Oral),Estreñimiento (Inicio 2-6h),"Emb: X (Contraindicado)
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: X (Contraindicado)
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Contraindicado (X),Precaución,No requiere ajuste,No requiere ajuste
+Acetaminofén o Paracetamol,Analgésico / Antipirético,"10 - 15 mg/kg/dosis
+
+Neonatos: 10-15 mg/kg","c/4 - 6 h
+
+Neonatos: c/6-8h","Max Diario:60 mg/kg/día
+
+Max Dosis:4g/día",VO (Oral) / Rectal,Dolor / Fiebre,"Emb: B
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (↓)
+
+Riñón: Prolongar Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (↓)
+
+Riñón: Prolongar Intervalo (I)",Aceptado (B),Seguro (Compatible),Disminuir la dosis,Intervalo entre dosis debe prolongarse
+Acetaminofén / Cafeína,Analgésico potenciado,Adultos: 1 - 2 tabletas,c/6 - 8 h,No especificado,VO (Oral),Alivio del dolor (potenciado),"Emb: B
+
+Lact: Precaución (B)","Hígado: Reducir Dosis (↓)
+
+Riñón: Prolongar Intervalo (I)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Reducir Dosis (↓)
+
+Riñón: Prolongar Intervalo (I)",Aceptado (B),Precaución,Disminuir la dosis,Intervalo entre dosis debe prolongarse
+Acetaminofén / Cafeína / Fenilefrina,Analgésico / Antihistamínico / Descong.,Adultos: 1 - 2 tabletas,c/6 - 8 h,No especificado,VO (Oral),Síntomas de gripa / Resfriado,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Acetaminofén / Cetirizina / Fenilefrina,Analgésico / Antihistamínico / Descong.,"6-12 meses: 3-4 gotas/kg
+
+2-6 años: 2.5 ml
+
+6-12 años: 5 ml
+
+>12 años: 10 ml",c/12 h,No especificado,VO (Oral),Síntomas de gripa / Resfriado,"Emb: B / C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Reducir (↓) o Evitar (X)",yes,"Emb: B / C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Reducir (↓) o Evitar (X)",Aceptado (B),Precaución,No requiere ajuste,Evitar su uso
+Acetaminofén / Clorfeniramina,Analgésico / Antihistamínico,"<2 años: 3 gotas/kg
+
+2-6 años: 5 ml
+
+6-12 años: 10 ml",c/6 h,No especificado,VO (Oral),Síntomas de resfriado / Alergias,"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Acetaminofén / Clorfeniramina / Fenilefrina,Analgésico / Antihistamínico / Vasoconst.,"2-4 años: 5 ml
+
+4-6 años: 7.5 ml
+
+>8 años: 10-15 ml (o 1 tab)",c/6 h,No especificado,VO (Oral),Síntomas de gripa / Resfriado,"Emb: B / C
+
+Lact: Precaución (B)","Hígado: Prolongar Intervalo (I)
+
+Riñón: Prolongar Intervalo (I)",yes,"Emb: B / C
+
+Lact: Precaución (B) | Hígado: Prolongar Intervalo (I)
+
+Riñón: Prolongar Intervalo (I)",Aceptado (B),Precaución,,Intervalo entre dosis debe prolongarse
+"Acetaminofén / Codeína, fosfato",Analgésico potenciado,"0.5 - 1 mg (codeína)/kg/dosis
+
+>10 años: 1 a 2 tabs",c/4 - 6 h,Max: 12 tabs/día,VO (Oral),Dolor moderado a severo,"Emb: B / D (Dosis altas)
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: B / D (Dosis altas)
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Aceptado (B),Precaución,No requiere ajuste,Evitar su uso
+Acetaminofén / Hidrocodona,Analgésico narcótico potenciado,"Niños: 0.6 mg/kg/día
+
+<50 kg: 0.2 mg/kg/dosis
+
+>50 kg: 10 mg","c/6 - 8 h
+
+(Frec dosis: c/3-4h)",No especificado,VO (Oral),Dolor moderado a severo,"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Acetaminofén / Hioscina (Buscapina),Antipirético / Analgésico / Antiespasmódico,"Gotas: 4 gotas/kg/día
+
+Tabletas: 1 - 2 tabs",c/8 h,No especificado,VO (Oral),Dolor abdominal / Cólicos / Fiebre,"Emb: B
+
+Lact: Precaución (B)","Hígado: Prolongar Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Prolongar Intervalo (I)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,,No requiere ajuste
+Acetaminofén / Loratadina / Fenilefrina,Analgésico / Antihistamínico / Descong.,"<2 años: 3-4 gotas/kg/dosis
+
+2-6 años: 2.5 ml
+
+6-12 años: 5 ml
+
+>12 años: 10 ml",c/12 h,No especificado,VO (Oral),Gripa / Alergias,"Emb: B / C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: B / C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Aceptado (B),Precaución,No requiere ajuste,Evitar su uso
+Acetaminofén / Tramadol,Analgésico / Opioide,"Adultos: 1-2 tabs
+
+>7 años: 0.1-0.2 ml/kg/dosis",c/6 - 8 h,No especificado,VO (Oral),Dolor moderado a severo,"Emb: B / D
+
+Lact: Precaución (B)","Hígado: Reducir Dosis (↓)
+
+Riñón: Prolongar Intervalo (I)",yes,"Emb: B / D
+
+Lact: Precaución (B) | Hígado: Reducir Dosis (↓)
+
+Riñón: Prolongar Intervalo (I)",Aceptado (B),Precaución,Disminuir la dosis,Intervalo entre dosis debe prolongarse
+Acetato de Aluminio,Astringente tópico,Aplicación tópica,No especificado,No especificado,Tópico,Irritación piel / Dermatitis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Acetazolamida,Diurético (Inh. anhidrasa carbónica),"Diurético: 5 mg/kg/día
+
+Hidrocefalia: 20-50 mg/kg/día
+
+Epilepsia: 4-16 mg/kg/día","c/6 - 8 h
+
+(Epilepsia: c/6 - 24h)",Max: 1 g/día,VO (Oral),Glaucoma / Epilepsia / Edema,"Emb: C
+
+Lact: Seguro (A)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Restringido (C),Seguro (Compatible),Evitar su uso,Evitar su uso
+Acetilcisteína,Mucolítico y expectorante,"2-7 años: 300 mg/día (dividido)
+
+>7 años: 600 mg/día
+
+Dosis específica: 10-20 mg/kg",c/8 h,No especificado,VO / Nebulizado / IV,Secreciones respiratorias / Intox. Acetaminofén,"Emb: B
+
+Lact: Seguro (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+"Acetilcolina, cloruro","Miótico, agente colinérgico",Aplicación intraocular,No especificado,No especificado,Intraocular,Cirugía intraocular (Miosis),"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Aciclovir,Antiviral (Herpes),"Varicela: 20 mg/kg/dosis
+
+Herpes Simple: 40-80 mg/kg/día
+
+Encefalitis: 30-60 mg/kg/día","c/6 h (Varicela)
+
+c/6-8h (HS)
+
+c/8h (Encefalitis)",800 mg/dosis (Varicela),VO / IV / Tópico,Herpes Simple / Zóster / Varicela,"Emb: B
+
+Lact: Seguro (C en libro)","Hígado: Seguro (A)
+
+Riñón: Reducir (↓) o Prolongar (I)",yes,"Emb: B
+
+Lact: Seguro (C en libro) | Hígado: Seguro (A)
+
+Riñón: Reducir (↓) o Prolongar (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Ácido acetilsalicílico (Aspirina),Analgésico / Antipirético / Antiinflamatorio,"Analgésico/Antipirético:10-20 mg/kg/dosis
+
+Antiinflamatorio: 75-90 mg/kg/día
+
+Kawasaki: 75-100 mg/kg/día",c/6 h,No especificado,VO (Oral),Dolor / Fiebre / Kawasaki / Reumatoide,"Emb: D (Contraindicado)
+
+Lact: Precaución (C)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: D (Contraindicado)
+
+Lact: Precaución (C) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Riesgo (D),Contraindicado,Evitar su uso,Evitar su uso
+Ácido acetilsalicílico / Cafeína,Analgésico potenciado (Migraña),Adultos: 1 tableta,c/4 - 6 h,No especificado,VO (Oral),Migraña / Dolor de cabeza,"Emb: C / D
+
+Lact: Precaución (C)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: C / D
+
+Lact: Precaución (C) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Restringido (C),Contraindicado,Evitar su uso,Evitar su uso
+Ácido azelaico,Antipigmentador,Aplicar tópicamente,1 o 2 veces al día,No especificado,Tópico,Acné vulgar / Melasma,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido carglúmico,Hiperamonemia,"Inicial: 100-250 mg/kg
+
+Mantenimiento: 10-100 mg/kg",No especificado,No especificado,VO (Oral),Deficiencia de N-acetilglutamato sintasa,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido clavulánico / Amoxicilina,Antibiótico (Penicilina + Inh. Betalactamasa),"ITRS-ITU: 20-50 mg/kg/día
+
+Sinusitis/OMA: 40 mg/kg/día
+
+OMA severa: 90 mg/kg/día",c/8 - 12 h,No especificado,VO (Oral),Infecciones bacterianas (Resp/Urinarias),"Emb: B
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (↓)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (↓)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),Disminuir la dosis,No requiere ajuste
+,,,,,,,,,yes, | ,,,,
+,,,,,,,,,yes, | ,,,,
+Ácido cólico,Ácido biliar,5 - 15 mg/kg/día,1 vez al día,500 mg/día,VO (Oral),Errores congénitos de síntesis de ácidos biliares,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido dimercaptosuccínico,Quelante,Ver entrada de DMSA (Succimer),-,-,-,Intoxicación por metales pesados,-,-,yes,- | -,,,,
+Ácido épsilon aminocaproico,Hemostático / Antifibrinolítico,"Inicial: 100-200 mg/kg
+
+Mantenimiento:100 mg/kg/dosis (o 33 mg/kg/h)",c/6 h,30 g/m²/día (hasta parar sangrado),VO / IV,Hemorragias / Inhibidor de fibrinólisis,"Emb: C
+
+Lact: Precaución (B)","Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Precaución,Disminuir la dosis,
+Ácido etacrínico,Diurético de asa,1 mg/kg/dosis,c/12 - 24 h,3 mg/kg/día,VO / IV,Edema / Insuficiencia cardíaca,Emb: B / D,"Hígado: Precaución (C)
+
+Riñón: Precaución (C)",yes,"Emb: B / D | Hígado: Precaución (C)
+
+Riñón: Precaución (C)",Aceptado (B),,,
+Ácido fólico (Vitamina B9),Vitamina hidrosoluble,"Prematuros: 0.25-0.50 mg/día
+
+<4 años: 0.3 mg/día
+
+>4 años: 0.4 mg/día",1 vez al día,No especificado,VO / IM / IV,Anemia megaloblástica / Suplemento,"Emb: A / C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A / C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido fólico (Leucovorín),Antídoto / Vitamina,"Toxicidad MTX: 2-15 mg/día
+
+Rescate: 10-15 mg/m²",c/3 días (varía) / c/6 h,No especificado,VO / IV / IM,Antídoto metotrexato / Anemia megaloblástica,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido fusídico (Fusidato sódico),Antibiótico antiestafilocócico,"0-1 año: 50 mg/kg/día
+
+1-5 años: 250 mg/dosis
+
+5-12 años: 500 mg/dosis",c/8 h,No especificado,VO (Oral),Infecciones por estafilococos,"Emb: C
+
+Lact: Seguro (A)","Hígado: Evitar o Precaución (¿?)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Evitar o Precaución (¿?)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),,No requiere ajuste
+Ácido fusídico / Betametasona,Antibiótico / Corticoide tópico,Aplicar en zona afectada,2 a 3 veces al día,No especificado,Tópico,Dermatitis infectada / Eczema,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido fusídico / Hidrocortisona,Antibiótico / Corticoide tópico,Aplicar en zona afectada,2 a 3 veces al día,No especificado,Tópico,Dermatitis infectada,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido fusídico / Dexametasona / Ketoconazol,Antibiótico / Corticoide / Antimicótico,Aplicar en zona afectada,2 a 3 veces al día,No especificado,Tópico,Infecciones mixtas piel,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Ácido glicólico,Queratolítico,Aplicar tópicamente,1 o 2 veces al día,No especificado,Tópico,Manchas / Acné / Exfoliación,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido mefenámico,AINE / Analgésico,">14 años: 500 mg inicial, luego 250 mg",c/6 h,No usar > 7 días,VO (Oral),Dolor / Dismenorrea,"Emb: C / D
+
+Lact: Precaución (B)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: C / D
+
+Lact: Precaución (B) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,Evitar su uso,Evitar su uso
+Ácido nalidíxico,Quinolona (Antiséptico urinario),55 mg/kg/día,c/6 - 8 h,4 g/día,VO (Oral),Infecciones Urinarias (ITU),"Emb: B
+
+Lact: Precaución (C)","Hígado: Reducir Dosis (↓)
+
+Riñón: Evitar (X)",yes,"Emb: B
+
+Lact: Precaución (C) | Hígado: Reducir Dosis (↓)
+
+Riñón: Evitar (X)",Aceptado (B),Contraindicado,Disminuir la dosis,Evitar su uso
+Ácido nicotínico,Vitamina,Ver entrada de Niacina o Vitamina B3,-,-,-,-,-,-,yes,- | -,,,,
+Ácido oxolínico,Antiséptico urinario,>1 año: 10 mg/kg/día,c/12 h (con comidas),No especificado,VO (Oral),Infecciones Urinarias,"Emb: C
+
+Lact: Precaución (B)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,Evitar su uso,Evitar su uso
+Ácido paraaminobenzoico (PABA),Protector solar / Antisol,Aplicar 30 min antes de exposición,Repetir según necesidad,No especificado,Tópico,Protección solar,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido paraaminosalicílico (PAS),Antituberculoso,200 mg/kg/día,c/4 - 6 h,12 g/día,VO (Oral),Tuberculosis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Seguro (Compatible),Disminuir la dosis,
+Ácido pipemídico,Quinolona (Antiséptico urinario),>12 años: 400 mg (1 tab),c/12 h,No especificado,VO (Oral),"ITU (Cistitis, etc)","Emb: C
+
+Lact: Precaución (B)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,Evitar su uso,Evitar su uso
+Ácido poliacrílico,Lágrima artificial,1 gota en cada saco conjuntival,3 - 4 horas (o según necesidad),No especificado,Oftálmica,Ojo seco,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido retinoico (Isotretinoína),Retinoide (Vit A),"Acné: Aplicar 1 vez noche
+
+Leucemia: 120-140 mg/m²/día",1 vez al día / c/12h,No especificado,Tópico / VO,Acné severo / Leucemia promielocítica,"Emb: X (Teratogénico)
+
+Lact: Contraindicado (X)","Hígado: Evitar (X)
+
+Riñón: Seguro (A)",yes,"Emb: X (Teratogénico)
+
+Lact: Contraindicado (X) | Hígado: Evitar (X)
+
+Riñón: Seguro (A)",Contraindicado (X),,Evitar su uso,No requiere ajuste
+Ácido salicílico,Queratolítico / Exfoliante,3 - 6%: Aplicar,1 vez en las noches,No especificado,Tópico,Psoriasis / Dermatitis seborreica,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Ácido salicílico / Ácido tricloroacético,Cauterizante / Bacteriostático,Aplicar en área afectada,2 a 3 veces al día,No especificado,Tópico,Verrugas / Callos,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido salicílico / Betametasona,Queratolítico / Corticoide,Aplicar en área afectada,2 veces al día,No especificado,Tópico,Psoriasis / Eczema,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Ácido salicílico / Cloruro de benzalconio,Antiseborreico,Aplicar en cabello húmedo,"Dejar 2-5 min, enjuagar",No especificado,Champú,Caspa / Seborrea,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido salicílico / Ruibarbo,Cicatrizante / Antiinflamatorio,Aplicar en área afectada,4 a 6 veces al día,No especificado,Tópico (Mucosa),Aftas / Lesiones mucosa oral,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido tolfenámico,AINE / Antiinflamatorio,1 - 6 mg/kg/día,c/8 h,No especificado,VO (Oral),Inflamación / Dolor,"Emb: C
+
+Lact: Precaución (B)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,Evitar su uso,Evitar su uso
+Ácido tranexámico,Hemostático / Antifibrinolítico,"IV: 10 mg/kg (luego c/6-8h)
+
+VO: 25 mg/kg/dosis",c/6 - 8 h,No especificado,IV / VO,Hemorragias / Cirugías,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (↓)",Aceptado (B),Seguro (Compatible),No requiere ajuste,
+Ácido ursodesoxicólico,Disolutor cálculos biliares,"Prevención: 4-5 mg/kg/día
+
+Colestasis: 30 mg/kg/día
+
+Atresia: 10-15 mg/kg/día",c/12 h (o dosis única),No especificado,VO (Oral),Colestasis / Cálculos biliares,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ácido valproico (Valproato),Anticonvulsivante,10 - 15 mg/kg/día(Aumentar 5-10 mg/kg),c/8 - 24 h,Nivel terapéutico: 50-100 µg/mL,VO / IV,Epilepsia / Convulsiones,"Emb: D (Teratogénico)
+
+Lact: Seguro (A)","Hígado: Evitar (X)
+
+Riñón: Seguro (A)",yes,"Emb: D (Teratogénico)
+
+Lact: Seguro (A) | Hígado: Evitar (X)
+
+Riñón: Seguro (A)",Riesgo (D),Seguro (Compatible),Evitar su uso,No requiere ajuste
+ACTH (Corticotropina),Hormona adrenocorticotropa,Espasmos infantiles: 24 - 40 U (o 1.6 U/kg/día),c/12 h,No especificado,IM / IV,Espasmos infantiles / Insuf. suprarrenal,"Emb: C
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Restringido (C),Seguro (Compatible),No requiere ajuste,Evitar su uso
+Adapaleno,Anti-acné (Retinoide),Aplicar una vez al día,Por la noche,No especificado,Tópico,Acné vulgar,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Adenosina,Antiarrítmico,"<50 kg: 0.05 - 0.1 mg/kg (rápido)
+
+>50 kg: 6 mg IV rápido",Dosis única (repetir si no hay respuesta),"<50kg: 0.3 mg/kg
+
+>50kg: 12 mg",IV (Bolo rápido),Taquicardia supraventricular,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Adrenalina (Epinefrina),Simpaticomimético,"RCP: 0.01 mg/kg (1:10.000)
+
+Anafilaxia: 0.01 mg/kg (1:1.000)
+
+Crup: 2.5 - 5 ml (1:1.000)",Según necesidad / Repetir cada 15-20 min (Crup),Max anafilaxia:0.3 - 0.5 mg,IV / IM / Nebulizado,Paro cardíaco / Anafilaxia / Crup,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Aescina,Antiinflamatorio tópico,Aplicar 3 - 4 veces al día,3 - 4 veces al día,No especificado,Tópico (Gel),Traumas / Equimosis / Hematomas,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Agalsidasa alfa / beta,Enzima (Galactosidasa),"Alfa: 0.2 mg/kg
+
+Beta: 1 mg/kg",Cada 2 semanas,No especificado,IV (Infusión),Enfermedad de Fabry,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Agua de mar,Descongestionante nasal,1 - 2 aplicaciones en cada fosa nasal,3 - 4 veces al día,No especificado,Nasal (Spray),Higiene nasal / Congestión,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Albendazol,Antihelmíntico,"<2 años: 200 mg (Dosis única)
+
+>2 años: 400 mg (Dosis única)",Dosis Única (o por 3-5 días según parásito),No especificado,VO (Oral),Parásitos intestinales,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B/C)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B/C)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Albúmina humana,Expansor de volumen,"Hipoalbuminemia:0.5 - 1 g/kg/dosis
+
+Shock: 0.25 - 1 g/kg/dosis",Según respuesta clínica,No especificado,IV,Hipoalbuminemia / Shock / Quemaduras,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Albuterol (Salbutamol),Broncodilatador (B2 Agonista),"Nebulización:0.15 mg/kg/dosis (min 2.5 mg)
+
+MDI: 90 µg/disparo (1-2 disparos)",c/20 min (crisis) o c/4-6 h (mantenimiento),"Neb: 5 mg/dosis
+
+MDI: 15 gotas (para sol. gotas)",Inhalado / Nebulizado,Asma / Broncoespasmo,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alcohol etílico (Etanol),Antídoto,"Carga: 0.75 - 1 ml/kg
+
+Mantenimiento:0.5 - 1 ml/kg/hora (diluido al 10%)",Infusión continua,Mantener nivel sérico 100 mg/dL,IV / VO,Intoxicación por metanol o etilenglicol,"Emb: D / X
+
+Lact: Precaución (A*)","Hígado: Precaución (B*)
+
+Riñón: Seguro (A)",yes,"Emb: D / X
+
+Lact: Precaución (A*) | Hígado: Precaución (B*)
+
+Riñón: Seguro (A)",Riesgo (D),A*,,No requiere ajuste
+Alcohol polivinílico (Liquifilm),Lubricante ocular,1 ó 2 gotas en cada ojo,3 a 4 veces al día (o según necesidad),No especificado,Oftálmica,Tratamiento del ojo seco / Irritación,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Alclometasona, dipropionato",Corticosteroide tópico,Aplicar en área afectada,2 a 3 veces al día,No especificado,Tópico,Dermatosis inflamatorias / Psoriasis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Aldesleucina,Factor de crecimiento (Células T),9 millones UI/m²,IV diaria x 4 días (repetir ciclo),No especificado,IV,Carcinoma renal / Melanoma,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alfacalcidol,Análogo Vitamina D,Véase Vitamina D,-,-,-,-,-,-,yes,- | -,,,,
+"Alfentanil, clorhidrato",Analgésico narcótico / Anestésico,"Anestesia: 8 - 75 µg/kg
+
+Procedimientos:7 - 15 µg/kg",Según procedimiento,No especificado,IV,Inducción anestésica / Analgesia,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Alfametildopa (Metildopa),Antihipertensivo (Agonista alfa-2),10 - 20 mg/kg/día,c/12 h,65 mg/kg/día (o 3 g/día),VO (Oral),Hipertensión arterial,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alfatocoferol,Vitamina,Véase Vitamina E,-,-,-,-,-,-,yes,- | -,,,,
+Alginato de sodio,Protector mucosa gástrica,1 - 2 ml/kg/día,c/8 h (después alimentos),No especificado,VO (Oral),Reflujo gastroesofágico / Pirosis,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alginato de sodio / Bicarbonato,Protector de mucosa / Antiácido,"Lactante: 1-2 ml/dosis
+
+Niños: 2-5 ml/dosis
+
+Adultos: 5-10 ml/dosis",4 a 6 veces al día (tras comidas),No especificado,VO (Oral),Reflujo / Acidez / Dispepsia,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alglucerasa (Glucocerebrosidasa),Enzima,30 - 60 U/kg,Cada 2 semanas (Variable),No especificado,IV,Enfermedad de Gaucher tipo 1,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alglucosidasa alfa,Enzima,20 mg/kg,Cada 2 semanas,No especificado,IV,Enfermedad de Pompe,"Emb: B
+
+Lact: Seguro (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+"Alizaprida, clorhidrato",Antiemético,2 - 5 mg/kg/día,c/8 - 12 h,No especificado,VO / IV / IM,Náuseas y vómitos,"Emb: C
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Seguro (Compatible),Disminuir la dosis,
+Alopurinol,Antigotoso / Hipouricemiante,10 mg/kg/día,c/8 - 24 h,800 mg/día (o 400 mg/m²),VO (Oral),Gota / Hiperuricemia (Lisis tumoral),"Emb: C
+
+Lact: Precaución (B)","Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Reducir Dosis (↓)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Precaución,Disminuir la dosis,
+Alprazolam,Benzodiacepina (Ansiolítico),0.005 - 0.02 mg/kg/dosis,c/8 h,No especificado,VO (Oral),Ansiedad / Pánico / Sedante,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Reducir Dosis (↓)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Reducir Dosis (↓)
+
+Riñón: Seguro (A)",Riesgo (D),Contraindicado,Disminuir la dosis,No requiere ajuste
+Alprostadil (PGE1),Prostaglandina E1,0.05 - 0.1 µg/kg/min,Infusión continua,Disminuir a dosis mínima eficaz,IV / Intraarterial,Mantener ductus arterioso permeable,"Emb: X
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: X
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Contraindicado (X),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alquitrán de hulla,Queratolítico / Antiseborreico,Aplicar 1 - 2 veces al día,1 - 2 veces al día,No especificado,Tópico,Dermatitis seborreica / Psoriasis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Alteplase (tPA),Fibrinolítico / Trombolítico,0.75 mg/kg,"En 30 min, luego 0.5 mg/kg en 60 min",No especificado,IV,Trombosis / ACV isquémico,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (C)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (C)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Aluminio, acetato (Solución de Burow)",Astringente / Emoliente,Aplicar en área afectada,3 - 4 veces al día,No especificado,Tópico,Afecciones inflamatorias piel (Dermatitis),"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Aluminio, clorhidrato",Secante / Antitranspirante,Aplicar 2 a 4 veces al día,2 a 4 veces al día,No especificado,Tópico,Hiperhidrosis / Bromhidrosis,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Aluminio, hidróxido",Antiácido / Alcalinizante,0.5 - 1 ml/kg/dosis(suspensión),"VO, 1 y 3 h después de alimentos",150 mg/kg/día,VO (Oral),Hiperacidez gástrica / Úlcera,"Emb: C
+
+Lact: Seguro (B)","Hígado: Seguro (A)
+
+Riñón: Evitar o Precaución (D)",yes,"Emb: C
+
+Lact: Seguro (B) | Hígado: Seguro (A)
+
+Riñón: Evitar o Precaución (D)",Restringido (C),Precaución,No requiere ajuste,Dosis debe disminuirse
+"Aluminio, hidróxido / Magnesio, hidróxido",Antiácido,0.5 - 2 ml/kg/dosis,1 a 3 horas después de alimentos,No especificado,VO (Oral),Acidez / Indigestión,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Evitar o Precaución (D)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Evitar o Precaución (D)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+"Aluminio, hidróxido / Magnesio, hidróxido",Antiácido,0.5 - 2 ml/kg/dosis,1 y 3 h después de comidas,No especificado,VO (Oral),Hiperacidez / Dispepsia,"Emb: B
+
+Lact: Seguro (C)","Hígado: Seguro (B)
+
+Riñón: Precaución (D)",yes,"Emb: B
+
+Lact: Seguro (C) | Hígado: Seguro (B)
+
+Riñón: Precaución (D)",Aceptado (B),Contraindicado,,Dosis debe disminuirse
+"Amantadina, clorhidrato",Antiviral (Influenza A),5 - 8 mg/kg/día,c/12 - 24 h,150 mg/día,VO (Oral),Influenza A (Profilaxis/Tratamiento),"Emb: C
+
+Lact: Precaución (C)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,,No requiere ajuste
+"Amantadina, sulfato",Agente antiparkinsoniano,Adultos: 100 mg (1 cap),c/12 h,300 mg/día,VO (Oral),Parkinsonismo / Reacciones extrapiramidales,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Restringido (C),Seguro (Compatible),No requiere ajuste,Evitar su uso
+"Ambroxol, clorhidrato",Expectorante / Mucolítico,1.5 - 2 mg/kg/día,c/8 - 12 h,No especificado,VO (Oral),Bronquitis / Secreciones respiratorias,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Ambroxol / Dextrometorfano,Expectorante / Antitusivo,"2-3 años: 5 ml
+
+4-6 años: 7.5 ml
+
+6-12 años: 10 ml",c/6 - 8 h,No especificado,VO (Oral),Tos productiva e irritativa,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Ambroxol / Salbutamol,Expectorante / Broncodilatador,0.1 mg (salbutamol)/kg/dosis,c/8 h,No especificado,VO (Oral),Asma bronquial con secreciones,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (D)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (D)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Amikacina, sulfato",Antibiótico (Aminoglucósido),15 - 22.5 mg/kg/día(Dosis Única o dividida),c/24 h (DUD) o c/8-12 h,1.5 g/día,IV / IM,Infecciones Gram-negativos severas,"Emb: C
+
+Lact: Precaución (D)","Hígado: Precaución (B)
+
+Riñón: Evitar / Ajustar (X)",yes,"Emb: C
+
+Lact: Precaución (D) | Hígado: Precaución (B)
+
+Riñón: Evitar / Ajustar (X)",Restringido (C),Precaución,,Evitar su uso
+"Amilorida, clorhidrato",Diurético ahorrador de potasio,0.4 - 0.625 mg/kg/día,c/12 h,10 mg/día,VO (Oral),Edema / Hipertensión / Hipopotasemia,"Emb: B
+
+Lact: Precaución (D)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (D) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Aminofilina,Broncodilatador (Xantina),"Carga: 5 mg/kg
+
+Mant: 5 mg/kg/dosis",c/6 h,No especificado,IV / VO,Asma / Broncoespasmo severo,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Amiodarona, clorhidrato",Antiarrítmico (Clase III),"Carga: 10-15 mg/kg/día
+
+Mant: 5 mg/kg/día","Carga: c/12h
+
+Mant: c/24h",No especificado,VO / IV,Arritmias ventriculares y supraventriculares,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Riesgo (D),Contraindicado,No requiere ajuste,No requiere ajuste
+"Amitriptilina, clorhidrato",Antidepresivo tricíclico,"Depresión: 0.5 - 1 mg/kg/dosis
+
+Hiperactividad: 0.5 - 1 mg/kg/día","c/8 h (Depresión)
+
+al acostarse (TDAH)",No especificado,VO (Oral),Depresión / Dolor neuropático / TDAH,"Emb: C
+
+Lact: Precaución (B*)","Hígado: Precaución (B*)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B*) | Hígado: Precaución (B*)
+
+Riñón: Seguro (A)",Restringido (C),Usar con reserva (Sin datos),,No requiere ajuste
+"Amlodipina, besilato",Antihipertensivo (Calcioantagonista),0.1 mg/kg/día,c/24 h (DUD),5 mg/día (hasta 10 mg),VO (Oral),Hipertensión arterial,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Restringido (C),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Amobarbital sódico,Barbitúrico (Sedante/Hipnótico),"Sedante: 1 - 2 mg/kg/dosis
+
+Hipnótico: 2 - 3 mg/kg/dosis","c/6 h (Sedante)
+
+c/12 h (Hipnótico)",No especificado,IV / IM,Sedación / Insomnio,"Emb: D (Riesgo)
+
+Lact: Precaución (B)","Hígado: Precaución (C)
+
+Riñón: Evitar (X)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (B) | Hígado: Precaución (C)
+
+Riñón: Evitar (X)",Riesgo (D),Precaución,,Evitar su uso
+Amodiaquina clorhidrato,Antipalúdico,"25 mg/kg (Total): 10 mg/kg (Día 1), 7.5 mg/kg (Días 2 y 3)",Cada 24 h,No especificado,VO (Oral),Malaria (Paludismo),"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Amonio, cloruro",Acidificante urinario,75 mg/kg/día,c/6 h,6 g/día,VO (Oral),Acidificación orina / Alcalosis metabólica,"Emb: C
+
+Lact: Precaución (B)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Amorolfina,Antimicótico tópico,Aplicar laca una vez por semana,1 vez / semana,No especificado,Tópico (Uñas),Onicomicosis,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Amoxicilina,Antibiótico (Aminopenicilina),"Estándar: 40 mg/kg/día
+
+OMA Alta: 80-90 mg/kg/día",c/8 - 12 h,No especificado,VO (Oral),OMA / Sinusitis / Neumonía / ITRS,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Amoxicilina / Ácido clavulánico,Antibiótico + Inhibidor Betalactamasa,"Estándar: 40 mg/kg/día
+
+Severa: 80-90 mg/kg/día",c/8 - 12 h,No especificado,VO (Oral),Infecciones resistentes a amoxicilina,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Amoxicilina / Sulbactam,Antibiótico + Inhibidor Betalactamasa,100 - 150 mg/kg/día,c/6 - 8 h,No especificado,VO / IM,Infecciones bacterianas,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ampicilina,Antibiótico (Aminopenicilina),"Leve: 50-100 mg/kg/día
+
+Severa/Meningitis:200-300 mg/kg/día",c/6 h,12 g/día,IV / IM / VO,Sepsis / Meningitis / Neumonía,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ampicilina / Sulbactam (Sultamicilina),Antibiótico + Inhibidor Betalactamasa,100 - 150 mg/kg/día,c/6 h,No especificado,IV / IM,Infecciones moderadas a severas,"Emb: B
+
+Lact: Seguro (B)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (B) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,,No requiere ajuste
+Amprenavir,Antirretroviral (Inh. Proteasa),"Caps: 20 mg/kg (c/12h) o 15 mg/kg (c/8h)
+
+Sol: 22.5 mg/kg (c/12h)",c/8 - 12 h,2400 mg/día,VO (Oral),VIH,"Emb: C
+
+Lact: Precaución (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,No requiere ajuste,No requiere ajuste
+"Amrinona (Inamrinona, lactato)",Inotrópico / Inhibidor fosfodiesterasa,"Carga: 0.75 mg/kg
+
+Mant: 5 - 10 µg/kg/min",Infusión continua,10 mg/kg/día,IV,Insuficiencia cardíaca congestiva,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Anfotericina B (Convencional/Desoxicolato),Antifúngico sistémico,"Prueba: 0.1 mg/kg
+
+Mant: 0.25 - 1 mg/kg/día",c/24 h (Infusión 4-6h),1.5 mg/kg/día,IV,Micosis sistémicas graves,"Emb: B
+
+Lact: Precaución (D/I)","Hígado: Intervalo (I)
+
+Riñón: Precaución (D/I)",yes,"Emb: B
+
+Lact: Precaución (D/I) | Hígado: Intervalo (I)
+
+Riñón: Precaución (D/I)",Aceptado (B),,,
+Anfotericina B complejo lipídico (ABLC),Antifúngico sistémico,2.5 - 5 mg/kg/día,c/24 h,No especificado,IV,Micosis sistémicas (menos nefrotóxico),"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Anfotericina B liposomal,Antifúngico sistémico,3 - 5 mg/kg/día,c/24 h,No especificado,IV,Micosis sistémicas / Leishmaniasis visceral,"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Anidulafungina,Antifúngico (Equinocandina),"Carga: 3 mg/kg
+
+Mant: 1.5 - 3 mg/kg/día",c/24 h,No especificado,IV,Candidiasis invasiva,"Emb: C
+
+Lact: No especificado","Hígado: No especificado
+
+Riñón: No especificado",yes,"Emb: C
+
+Lact: No especificado | Hígado: No especificado
+
+Riñón: No especificado",Restringido (C),,,
+Antimoniato pentavalente (Meglumina),Antiprotozoario (Leishmanicida),20 mg/kg/día,c/24 h,850 mg/día (o sin tope en visceral),IM / IV,"Leishmaniasis (Cutánea, Mucosa, Visceral)","Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,No requiere ajuste,Evitar su uso
+Antitoxina diftérica,Agente inactivador de toxina,"Profilaxis: 500 - 1.000 UI
+
+Faringe: 20.000 - 40.000 UI
+
+Grave: 80.000 - 120.000 UI",Dosis Única (Previa prueba sensibilidad),No especificado,IM / IV (Diluido),Difteria (Neutralización de toxina),"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Antitoxina tetánica,Agente inactivador de toxina,"Neonatal:10.000 - 20.000 UI
+
+Mayores:50.000 - 100.000 UI
+
+Profilaxis:3.000 - 5.000 UI",Dosis Única (Previa prueba),No especificado,IM / IV,Tétanos (Neutralización de toxina),"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Apomorfina,Emético (Inductor vómito),"Niños: 0.06 mg/kg
+
+Adultos: 6 mg",Dosis Única,No especificado,SC (Subcutánea),Inducción del vómito (Intoxicaciones),"Emb: C
+
+Lact: Precaución (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,No requiere ajuste,No requiere ajuste
+Apraclonidina,Agonista alfa-adrenérgico,1 gota,c/12 h,No especificado,Oftálmica,Glaucoma / Presión intraocular,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Apresolina,Vasodilatador,Véase Hidralazina,-,-,-,-,-,-,yes,- | -,,,,
+Aprotinina,Hemostático / Inhibidor proteasas,"Carga: 1.4 - 4.9 mg/kg
+
+Bomba: 1.4 - 4.9 mg/kg/h",Infusión continua,No especificado,IV,Hemorragias / Cirugía cardíaca,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Arabinosido de adenina,Antiviral,Véase Vidarabina,-,-,-,-,-,-,yes,- | -,,,,
+Arabinosido de citosina,Antineoplásico,Véase Citarabina,-,-,-,-,-,-,yes,- | -,,,,
+"Arginina, clorhidrato",Agente diagnóstico,Prueba: 500 mg - 1.5 g/kg,Infusión en 30 min,No especificado,IV,Prueba estimulación Hormona Crecimiento,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Aripiprazol,Antipsicótico atípico,"Adolescentes:Iniciar 2 mg/día x 2 días, luego 5 mg/día x 2 días, luego 10 mg/día",1 vez al día,30 mg/día,VO (Oral),Trastorno bipolar I / Esquizofrenia,"Emb: C
+
+Lact: Precaución (C)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,,No requiere ajuste
+Artesunato + Amodiaquina,Antipalúdico,"2-11 meses: 1 tab (25/67.5)
+
+1-5 años: 2 tabs
+
+>14 años: 2 tabs (100/270)",1 vez al día x 3 días,No especificado,VO (Oral),Malaria no complicada (P. falciparum),"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,No requiere ajuste,Evitar su uso
+Asparaginasa,Antineoplásico,"6.000 - 10.000 UI/m² (c/3 días)
+
+25.000 UI/m²(semanal)",Variable según protocolo,No especificado,IM / IV,Leucemia linfoblástica aguda (LLA),"Emb: C
+
+Lact: Evitar (D)","Hígado: Precaución (C)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Evitar (D) | Hígado: Precaución (C)
+
+Riñón: Evitar (X)",Restringido (C),Contraindicado,,Evitar su uso
+Astemizol,Antihistamínico,0.2 mg/kg,DUD (Dosis Única Diaria),10 mg/día,VO (Oral),Rinitis alérgica / Urticaria,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Atapulgita,Antidiarreico,"3-6 años: 300-750 mg/dosis
+
+6-12 años: 750-1500 mg/dosis",Máx 7 dosis/día,"3-6a: 2.25 g/día
+
+6-12a: 4.5 g/día",VO (Oral),Diarrea aguda,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Atazanavir, sulfato",Antirretroviral (Inh. Proteasa),7 - 8.5 mg/kg,c/24 h,400 mg/día,VO (Oral),VIH,"Emb: B
+
+Lact: Precaución (C)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (C) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Aceptado (B),Contraindicado,,No requiere ajuste
+Atenolol,Antihipertensivo (Betabloqueador),0.5 - 1 mg/kg/día,c/12 - 24 h,2 mg/kg/día,VO (Oral),Hipertensión / Arritmias,"Emb: D (Riesgo)
+
+Lact: Precaución (D)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (D) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Riesgo (D),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+"Atomoxetina, clorhidrato",Inhibidor recaptación norepinefrina,"Inicial: 0.5 mg/kg/día
+
+Mantenimiento:1.2 mg/kg/día",1 vez al día (mañana),1.4 mg/kg/día (o 100 mg),VO (Oral),TDAH (Déficit de Atención),"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Atorvastatina cálcica,Hipolipemiante (Estatina),10 mg/día(Inicial),1 vez al día,80 mg/día (Adultos),VO (Oral),Hipercolesterolemia familiar,"Emb: X (Contraindicado)
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: X (Contraindicado)
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Contraindicado (X),Precaución,,No requiere ajuste
+Atovacuona,Antiprotozoario,"Neumonía: 30-40 mg/kg/día
+
+Paludismo: 11-20kg -> 62.5/25 mg",c/24 h (Paludismo),No especificado,VO (Oral),Neumonía (Pneumocystis) / Paludismo,"Emb: C
+
+Lact: Precaución (B)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,Evitar su uso,Evitar su uso
+"Atracurio, besilato",Relajante muscular no despolarizante,0.3 - 0.4 mg/kg/dosis,Repetir según necesidad,No especificado,IV,Relajación muscular / Intubación,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Atropina, sulfato",Anticolinérgico,"Bradicardia:0.01-0.02 mg/kg
+
+Asma: 0.03-0.05 mg/kg
+
+Intoxicación:0.02-0.05 mg/kg",Dosis única / Repetir c/10-20 min (Intox),"Max Bradicardia:0.5 mg (niños), 1 mg (adolesc)",IV / IO / ET / SC,Bradicardia / Intox. organofosforados,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Auranofin,Compuesto de oro,0.1 mg/kg/día,c/12 - 24 h,6 mg/día,VO (Oral),Artritis reumatoide juvenil,"Emb: C
+
+Lact: Precaución (C)","Hígado: Evitar (D)
+
+Riñón: Evitar (D)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Evitar (D)
+
+Riñón: Evitar (D)",Restringido (C),Contraindicado,,Dosis debe disminuirse
+Aurotioglucosa,Compuesto de oro,"Prueba: 10 mg IM
+
+Mant: 1 mg/kg/dosis",Semanal (Intervalos 2-4 sem),50 mg/dosis,IM,Artritis reumatoide juvenil,"Emb: C
+
+Lact: Precaución (C)","Hígado: Evitar (D)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Evitar (D)
+
+Riñón: Evitar (X)",Restringido (C),Contraindicado,,Evitar su uso
+Azatadina,Antihistamínico,12 - 60 años: 1 mg (1 tab),c/12 h,No especificado,VO (Oral),Rinitis / Alergias,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Azatioprina,Inmunosupresor,"Mant: 1 - 2 mg/kg/día
+
+Inducción: 3 - 5 mg/kg/día",c/12 - 24 h,No especificado,VO / IV,Trasplante / Enfermedades autoinmunes,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Evitar (D)
+
+Riñón: Evitar (X)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Evitar (D)
+
+Riñón: Evitar (X)",Riesgo (D),Contraindicado,,Evitar su uso
+Azelastina,Antihistamínico nasal,>6 años: 1 spray en cada fosa,2 veces al día,No especificado,Nasal,Rinitis alérgica / Conjuntivitis (Oft),"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Azelastina / Fluticasona,Antihistamínico / Corticoide,>6 años: 1 spray en cada fosa,2 veces al día,No especificado,Nasal,Rinitis alérgica estacional,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Azitromicina,Antibiótico (Macrólido),"Estándar: 10 mg/kg (Día 1), luego 5 mg/kg (Días 2-5)
+
+Faringitis: 12 mg/kg/día",c/24 h,500 mg/día,VO (Oral),Infecciones respiratorias / Otitis / Faringitis,"Emb: B
+
+Lact: Seguro (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Aztreonam,Antibiótico (Monobactámico),"Fibrosis Q: 200 mg/kg/día
+
+Grave: 120 - 160 mg/kg/día",c/6 - 8 h,8 g/día,IV / IM,Infecciones Gram-negativos aerobios,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (D?)
+
+Riñón: Reducir dosis (D)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (D?)
+
+Riñón: Reducir dosis (D)",Aceptado (B),Seguro (Compatible),,Dosis debe disminuirse
+Azul de metileno,Antídoto,1 - 2 mg/kg,Dosis Única (Repetir en 1h si necesario),No especificado,IV,Metahemoglobinemia,"Emb: C
+
+Lact: Evitar (D)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Evitar (D) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Bacitracina,Antibiótico tópico,Aplicar en área afectada,2 a 4 veces al día,No especificado,Tópico / Oftálmico,Infecciones cutáneas u oculares,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Baclofeno,Relajante muscular esquelético,"Inicio: 0.3 mg/kg/día
+
+Mant: 0.75 - 2.5 mg/kg/día",c/8 h,"<2a: 40 mg
+
+2-7a: 60 mg
+
+>7a: 120 mg",VO (Oral),Espasticidad muscular,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Seguro (Compatible),No requiere ajuste,
+Baloxavir marboxil,Antiviral (Inhibidor endonucleasa),">12 años (>40 kg): 40 mg
+
+>80 kg: 80 mg",Dosis Única (en 1eras 48h),No especificado,VO (Oral),Influenza A y B (Gripe),"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Basiliximab,Inmunosupresor (Monoclonal),"<35 kg: 10 mg (2 dosis)
+
+>35 kg: 20 mg (2 dosis)",Día 0 (previo) y Día 4 (post),No especificado,IV,Profilaxis rechazo trasplante renal,"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+"Beclometasona, dipropionato",Corticosteroide inhalado,Broncoespasmo:2 inhalaciones (o 6-12 años: 1-2 inh),c/6 - 12 h,10 inhalaciones/día (según concentración),Inhalado / Nasal,Asma bronquial / Rinitis alérgica,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Benazepril, clorhidrato",Antihipertensivo (IECA),0.2 mg/kg/día,c/24 h (DUD),"Inicial: 10 mg/día
+
+Max: 40 mg/día",VO (Oral),Hipertensión arterial,"Emb: C / D (2º/3º trim)
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C / D (2º/3º trim)
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Precaución,,
+Bencetonio,Antiséptico / Desinfectante,Aplicar 2 a 3 veces al día,2 a 3 veces al día,No especificado,Tópico,Desinfección piel y mucosas,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Benceno, hexacloruro",Escabicida,Véase Gamabenceno,-,-,-,-,-,-,yes,- | -,,,,
+Bencilpenicilina,Antibiótico,Véase Penicilina cristalina,-,-,-,-,-,-,yes,- | -,,,,
+"Benzatropina, mesilato",Anticolinérgico,0.02 - 0.05 mg/kg/dosis,c/12 - 24 h,4 mg/día,IM / IV / VO,Reacciones extrapiramidales / Parkinsonismo,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Benzidamina,Antiinflamatorio tópico,"Spray: 4 sprays (adultos), 1 spray/10kg (niños)
+
+Sol: 15 ml (cda)",c/6 h,Max 4 sprays (niños) o 6 (adultos),Tópico / Gargarismo,Dolor e inflamación bucofaríngea,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Benzocaína,Anestésico local,Aplicar hasta llenar el CAE (Otitis) o tópicamente,c/1 a 3 h (hasta aliviar dolor),No especificado,Tópico / Ótico,Otitis / Dolor bucofaríngeo / Teething,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Benzocaína / Cetilpiridinio, cloruro",Anestésico / Antiséptico,Dejar disolver en boca 1 pastilla,3 ó 4 veces al día (o c/2h),Max 4 al día (niños),VO (Tópico mucosa),Dolor de garganta / Faringitis,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Benzofenona,Protector solar,Aplicar 30 minutos antes de exposición,Repetir según necesidad,No especificado,Tópico,Protección solar UV-A,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Benzoato de bencilo,Escabicida / Pediculicida,"Aplicar en todo el cuerpo, lavar a las 24h",Repetir por 3 días,No especificado,Tópico,Escabiosis / Pediculosis,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Benzoilo, peróxido",Antiacné / Queratolítico,Aplicar 1 a 3 veces al día,Iniciar 15 min y aumentar duración,No especificado,Tópico,Acné vulgar,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Beractante bovino,Surfactante pulmonar,4 ml/kg,"1 dosis, repetir c/6h si necesario",4 dosis en 48h,Intratraqueal (IT),Síndrome Dificultad Respiratoria (RN),"Emb: ?
+
+Lact: ?","Hígado: ?
+
+Riñón: ?",yes,"Emb: ?
+
+Lact: ? | Hígado: ?
+
+Riñón: ?",,,,
+"Betahistina, clorhidrato",Antivertiginoso,"6-12 años: 5 ml
+
+>12 años: 10 ml (1 tab)",c/12 h,48 mg/día,VO (Oral),Síndrome de Meniere / Vértigo,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Betaína anhidra,Agente para homocistinuria,100 mg/kg/día,c/12 h,20 g/día,VO (Oral),Homocistinuria,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Betametasona, acetato",Corticosteroide sistémico,0.0175 - 0.125 mg/kg/día (o 0.5 - 7.5 mg/m²),c/6 - 12 h,No especificado,IM / VO / Intraarticular,Inflamación severa / Maduración pulmonar,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Precaución,,
+"Betametasona, valerato",Corticosteroide tópico,Aplicar 2 ó 3 veces al día,2 ó 3 veces al día,No especificado,Tópico,Dermatitis / Eczema,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Betametasona, dipropionato / Neomicina / Clotrimazol",Corticoide / Antibiótico / Antimicótico,Aplicar 2 veces al día,2 veces al día (mañana y noche),No especificado,Tópico,Dermatitis infectada / Tiña,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Betametasona / Gentamicina / Clotrimazol,Corticoide / Antibiótico / Antimicótico,Aplicar 2 veces al día,2 veces al día,No especificado,Tópico,Dermatitis infectada / Tiña,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Betametildigoxina,Glucósido cardíaco,"Impregnación (µg/kg): Prem: 20, RN: 30, Lact: 40-50, Niño: 30-40",Dosis divididas,Mant: 1/4 dosis impregnación,VO / IV,Insuficiencia cardíaca / Arritmias,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (↓)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (↓)",Restringido (C),Seguro (Compatible),No requiere ajuste,
+Bevacizumab,Antineoplásico (Monoclonal),Tumores: 5 - 15 mg/kg,c/2 sem (c/14d) o c/3 sem (c/21d),No especificado,IV (Infusión),Tumores sólidos / Metástasis,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Betanecol, cloruro",Agente colinérgico,0.1 - 0.2 mg/kg/dosis,c/6 h - 8 h (antes comidas),No especificado,VO (Oral),Retención urinaria / Reflujo,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Bicarbonato de sodio,Alcalinizante / Electrolito,"Paro: 1 mEq/kg (bolo)
+
+Acidosis: Déficit base x kg x 0.3
+
+Lisis tumoral:120 - 200 mEq/m²/día","Paro: Repetir c/10 min
+
+Mtto: c/24h",No especificado,IV,Paro cardíaco / Acidosis met. / Hiperpotasemia,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Bifonazol,Antimicótico tópico,Aplicar 1 vez al día,1 vez al día (noche),No especificado,Tópico,Micosis cutáneas / Pie de atleta,"Emb: ?
+
+Lact: ?","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: ?
+
+Lact: ? | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",,Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Bimatoprost,Prostaglandina (Antiglaucoma),1 gota en ojo afectado,1 vez al día (noche),No especificado,Oftálmica,Glaucoma / Hipotricosis pestañas,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Biperideno, clorhidrato",Antiparkinsoniano,0.02 - 0.1 mg/kg/dosis,c/6 - 12 h,No especificado,VO / IM / IV,Síntomas extrapiramidales / Parkinsonismo,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Biotina (Vitamina H),Vitamina,"Deficiencia: 5 - 10 mg/día
+
+Mant: 5 - 20 mg/día",DUD (1 vez al día),No especificado,VO (Oral),Deficiencia de biotinidasa / Dermatitis,"Emb: A / C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A / C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Bismuto, subsalicitato",Antidiarreico / Antisecretor,"Diarrea: 100 mg/kg/día
+
+H. pylori:<10a: 262 mg/dosis; >10a: 524 mg/dosis","c/4 h (Diarrea)
+
+c/6 h (Pylori)",No especificado,VO (Oral),Diarrea infecciosa / H. pylori,"Emb: C / D (3º trim)
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Precaución (D)",yes,"Emb: C / D (3º trim)
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Precaución (D)",Restringido (C),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+Bisacodilo,Laxante estimulante,"0.3 mg/kg/día
+
+>2 años: 5 - 10 mg
+
+Adultos: 10 - 15 mg",Dosis Única (DUD),15 mg/día,VO (Oral),Estreñimiento,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Bretilio, tosilato",Antiarrítmico,"Carga: 5 mg/kg
+
+Mant: 10 mg/kg/dosis","c/15 - 30 min (carga)
+
+c/6 h (mant)",30 mg/kg/día,IM / IV,Taquicardia supraventricular,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Restringido (C),Precaución,No requiere ajuste,Intervalo entre dosis debe prolongarse
+"Brimonidina, tartrato",Agonista alfa-2 (Oftálmico),1 gota en saco conjuntival,2 - 3 veces al día,No especificado,Oftálmica,Glaucoma / Hipertensión ocular,"Emb: B
+
+Lact: Evitar (D)","Hígado: Precaución (B)
+
+Riñón: Evitar (D)",yes,"Emb: B
+
+Lact: Evitar (D) | Hígado: Precaución (B)
+
+Riñón: Evitar (D)",Aceptado (B),Precaución,,Dosis debe disminuirse
+Brinzolamida,Inhibidor anhidrasa carbónica,1 gota en saco conjuntival,2 veces al día,No especificado,Oftálmica,Glaucoma / Hipertensión ocular,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Evitar (D)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Evitar (D)",Restringido (C),Precaución,,Dosis debe disminuirse
+Bromazepam,Benzodiacepina (Ansiolítico),0.1 - 0.3 mg/kg/día,c/8 - 12 h,No especificado,VO (Oral),Ansiedad / Neurosis,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Reducir Dosis (↓)
+
+Riñón: Intervalo (I)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Reducir Dosis (↓)
+
+Riñón: Intervalo (I)",Riesgo (D),Contraindicado,Disminuir la dosis,Intervalo entre dosis debe prolongarse
+Bromfeniramina / Fenilefrina,Antihistamínico / Descongestionante,0.1 - 0.2 mg/kg/dosis,c/6 - 8 h,No especificado,VO (Oral),Rinitis / Congestión nasal,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Bromhexina, clorhidrato",Mucolítico,1 mg/kg/día,c/8 h,No especificado,VO (Oral),Secreciones bronquiales,"Emb: A
+
+Lact: Seguro (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Precaución,No requiere ajuste,No requiere ajuste
+"Bromocriptina, mesilato",Antiparkinsoniano / Agonista dopamina,1.25 - 2.5 mg/día,Aumentar 1.25 - 2.5 mg c/3 a 7 días,15 mg/día,VO (Oral),Hiperprolactinemia / Parkinson,"Emb: B
+
+Lact: Evitar (C - Inhibe lactancia)","Hígado: Precaución (C)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Evitar (C - Inhibe lactancia) | Hígado: Precaución (C)
+
+Riñón: Seguro (A)",Aceptado (B),Contraindicado,,No requiere ajuste
+Bromuro de pancuronio,Bloqueante neuromuscular,"0.1 mg/kg(Dosis inicial)
+
+Mant: 0.05 - 0.1 mg/kg",Según necesidad,No especificado,IV,Relajación muscular (Intubación/Cirugía),"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Bromuro de ipratropio,Broncodilatador (Anticolinérgico),"Nebulización:250-500 µg/dosis
+
+Inhalador: 1-2 disparos (20-40 µg)",c/6 - 8 h,2 mg/día (Nebulizado),Inhalado / Nebulizado,Asma / EPOC / Broncoespasmo,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Bromuro de ipratropio / Salbutamol,Broncodilatador mixto,1 ampolla (o 1-2 disparos),c/6 - 8 h,No especificado,Inhalado / Nebulizado,Crisis asmática / Broncoespasmo,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Brotizolam,Benzodiacepina (Hipnótico),0.25 mg,Antes de acostarse (noche),No especificado,VO (Oral),Insomnio,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Evitar (D)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Evitar (D)
+
+Riñón: Seguro (A)",Riesgo (D),Contraindicado,,No requiere ajuste
+Budesonida,Corticosteroide inhalado,"Nebulización:0.25 - 0.5 mg (o hasta 1 mg)
+
+Inhalador:200-400 µg",c/12 h,2 mg/día (Crup),Inhalado / Nebulizado,Asma / Crup / Rinitis,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Budesonida / Formoterol,Corticosteroide / Broncodilatador,1 - 2 inhalaciones,c/12 h,No especificado,Inhalado,Asma persistente / EPOC,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Bumetanida,Diurético de asa,0.015 - 0.1 mg/kg/dosis,c/6 - 12 h - 24 h,10 mg/día,VO / IV / IM,Edema / Insuficiencia cardíaca,"Emb: C / D
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C / D
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Bupivacaína, clorhidrato",Anestésico local,1 - 3.7 mg/kg,Según procedimiento,No especificado,Infiltración / Epidural,Anestesia local o regional,"Emb: C
+
+Lact: Seguro (A)","Hígado: Precaución (C)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Precaución (C)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),,No requiere ajuste
+"Buprenorfina, clorhidrato",Analgésico narcótico (Opioide),2 - 6 µg/kg,c/4 - 6 h,No especificado,IM / IV / Sublingual,Dolor moderado a severo,"Emb: C
+
+Lact: Precaución (C)","Hígado: Precaución (C)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Precaución (C)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,,No requiere ajuste
+"Bupropión, clorhidrato",Antidepresivo,"<15 años: 300 - 450 mg/día
+
+>15 años: 150 mg/dosis",c/12 h,450 mg/día,VO (Oral),Depresión / TDAH,"Emb: B
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Evitar (X)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Evitar (X)",Aceptado (B),Precaución,,Evitar su uso
+Burosumab,Anticuerpo monoclonal,"<10 kg: 1 mg/kg
+
+>10 kg: 0.8 mg/kg",Cada 2 semanas,No especificado,SC (Subcutánea),Raquitismo hipofosfatémico,"Emb: B / C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B / C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+"Buspirona, clorhidrato",Ansiolítico,"6-14 años: 5 mg/día
+
+>15 años: 7.5 mg/dosis",c/12 h,60 mg/día,VO (Oral),Ansiedad generalizada,"Emb: B
+
+Lact: Precaución (C)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (C) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Aceptado (B),Contraindicado,,No requiere ajuste
+Busulfano,Antineoplásico (Alquilante),0.06 - 0.12 mg/kg/día (o 1.8 - 4.6 mg/m²),Dosis única diaria,No especificado,VO (Oral),Leucemia mieloide crónica,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Riesgo (D),Contraindicado,No requiere ajuste,No requiere ajuste
+Butilacetilaminopropionato,Repelente de insectos,Aplicar cada 4 horas en zonas expuestas,Cada 4 horas,No especificado,Tópico,Prevención picaduras insectos,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Cafeína, citrato",Estimulante SNC,"Carga: 20 mg/kg
+
+Mant: 5 mg/kg/día",c/24 h (iniciar 24h post carga),No especificado,IV / VO,Apnea del prematuro,"Emb: B/C
+
+Lact: Seguro (A)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: B/C
+
+Lact: Seguro (A) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cafeína / Acetaminofén,Analgésico potenciado,Adultos: 1 - 2 tabletas,c/6 a 8 h,No especificado,VO (Oral),Dolor moderado,"Emb: B
+
+Lact: Seguro (A)","Hígado: Intervalo (I)
+
+Riñón: Evitar (X)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Intervalo (I)
+
+Riñón: Evitar (X)",Aceptado (B),Seguro (Compatible),,Evitar su uso
+Cafeína / Ácido acetilsalicílico,Analgésico potenciado,Adultos: 1 tableta,c/4 - 6 h,No especificado,VO (Oral),Dolor / Cefalea,"Emb: C/D
+
+Lact: Precaución (C)","Hígado: Intervalo (I)
+
+Riñón: Evitar (X)",yes,"Emb: C/D
+
+Lact: Precaución (C) | Hígado: Intervalo (I)
+
+Riñón: Evitar (X)",Restringido (C),Contraindicado,,Evitar su uso
+Calamina,Antipruriginoso / Protector,Aplicar tópicamente,3 - 4 veces al día,No especificado,Tópico,Prurito / Irritación piel,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Calcio, carbonato",Antiácido / Suplemento,"2-5 años:400 mg (D. máx 1.2g)
+
+6-11 años:800 mg (D. máx 2.4g)",c/6 h (Antiácido),2.400 mg/día (según edad),VO (Oral),Acidez / Suplemento calcio,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Calcio, caseinato",Complemento nutricional,"Lactantes: 2 g
+
+Niños: 3 g (3 veces al día)",3 veces al día,No especificado,VO (Oral),Deficiencia nutricional / Dieta,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Calcio, cloruro",Electrolito,20 mg/kg/dosis(0.2 ml/kg),c/10 años a 20 seg (?),100 mg/min (infusión),IV,Hipocalcemia aguda / Paro,"Emb: C
+
+Lact: Precaución (B)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Calcio, fosfato tribásico",Suplemento de calcio,"Lactantes:1-2 ml/día
+
+Niños: 45-65 mg/kg/día","c/24 h
+
+Dividido c/6-8h",No especificado,VO (Oral),Hipocalcemia / Suplemento,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Calcio, glubionato",Electrolito / Suplemento,"RN: 1.200 mg/kg/día
+
+Niños: 600 - 2.000 mg/kg/día",c/4 - 6 h,No especificado,VO (Oral),Hipocalcemia asintomática,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Calcio, gluconato",Electrolito / Suplemento,"RN: 500-1.500 mg/kg/día
+
+Niños: 500-725 mg/kg/día","c/4 - 6 h (VO)
+
+c/6 - 8 h (IV)",No especificado,VO / IV,Hipocalcemia / Tetania,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Calcipotriol (Calcipotrieno),Antipsoriásico (Vit D),Aplicar una vez al día,1 vez al día,50 µg/g / 30 g semana (adultos),Tópico,Psoriasis,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Calcipotriol / Betametasona,Antipsoriásico / Corticoide,Aplicar una vez al día,1 vez al día,No especificado,Tópico,Psoriasis en placas,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Calcitriol,Vitamina D3 activa,"Prematuros:1 µg/día
+
+<5 años:0.25 - 0.75 µg/día",1 vez al día (o IV c/2 sem),No especificado,VO / IV,Hipocalcemia / Osteodistrofia renal,"Emb: C / D
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C / D
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Captopril,Antihipertensivo (IECA),"Neonatos:0.05 - 0.1 mg/kg/dosis
+
+Lactantes:0.15 - 0.3 mg/kg/dosis","c/8 - 24 h (Neonatos)
+
+c/6 - 24 h (Lact)",6 mg/kg/día,VO (Oral),Hipertensión / Insuficiencia cardíaca,"Emb: C / D (Riesgo)
+
+Lact: Precaución (B)","Hígado: Precaución (D/I)
+
+Riñón: Evitar (X)",yes,"Emb: C / D (Riesgo)
+
+Lact: Precaución (B) | Hígado: Precaución (D/I)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,,Evitar su uso
+Carbamazepina (CBZ),Anticonvulsivante,10 - 20 mg/kg/día,c/8 h,35 mg/kg/día (o 1000 mg),VO (Oral),Epilepsia / Dolor neuropático,"Emb: D (Riesgo)
+
+Lact: Seguro (A)","Hígado: Precaución (D)
+
+Riñón: Intervalo (I)",yes,"Emb: D (Riesgo)
+
+Lact: Seguro (A) | Hígado: Precaución (D)
+
+Riñón: Intervalo (I)",Riesgo (D),Seguro (Compatible),,Intervalo entre dosis debe prolongarse
+Carbenicilina,Antibiótico (Penicilina),400 - 600 mg/kg/día,c/4 h - 6 h,40 g/día,IV / IM,Infecciones Pseudomonas / Proteus,"Emb: B
+
+Lact: Seguro (A)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Carbocisteína,Mucolítico,"2-5 años:1.25 - 2.5 ml
+
+5-12 años: 5 ml",c/12 h,No especificado,VO (Oral),Secreciones bronquiales,"Emb: B
+
+Lact: Precaución (B)","Hígado: Precaución (D)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Precaución (D)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,,No requiere ajuste
+Carboximetilcelulosa sódica,Lubricante ocular,1 ó 2 gotasen cada ojo,Según necesidad,No especificado,Oftálmica,Ojo seco,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Carboplatino,Antineoplásico,300 - 400 mg/m²,c/4 semanas,No especificado,IV,Tumores sólidos / SNC,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",Riesgo (D),Contraindicado,,Evitar su uso
+Carbón activado,Antídoto absorbente,1 - 2 g/kg(25 a 50 g),Dosis única (Repetir c/2-4h si indicado),50 g (niños),VO (Oral),Intoxicaciones agudas,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Carbohidratos,Suplemento oral,Volumen por porción 237 ml,Según tolerancia,No especificado,VO (Oral),Intolerancia a la glucosa,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Carmustina,Antineoplásico (Alquilante),200 - 250 mg/m²,c/4 - 6 semanas,No especificado,IV,Tumores cerebrales / Linfomas,"Emb: D (Riesgo)
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Riesgo (D),Precaución,No requiere ajuste,No requiere ajuste
+Carvedilol,Bloqueador adrenérgico (Beta/Alfa),0.05 - 0.2 mg/kg/día,c/12 - 24 h,50 mg/día,VO (Oral),Insuficiencia cardíaca / Hipertensión,"Emb: C
+
+Lact: Precaución (B*)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B*) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Usar con reserva (Sin datos),No requiere ajuste,No requiere ajuste
+Cáscara sagrada,Laxante estimulante,"Lactantes:1.25 ml
+
+2-11 años:2.5 ml",1 a 3 veces al día,No especificado,VO (Oral),Estreñimiento,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Caspofungina,Antimicótico (Equinocandina),"Carga: 70 mg/m²
+
+Mant: 50 mg/m²/día",c/24 h,70 mg/día,IV,Aspergilosis / Candidiasis invasiva,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Cefaclor,Antibiótico (Cefalosporina 2ª),20 - 40 mg/kg/día,c/8 - 12 h,2 g/día,VO (Oral),OMA / ITRS / Infecciones piel,"Emb: B
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefadroxilo,Antibiótico (Cefalosporina 1ª),30 mg/kg/día,c/12 h,2 g/día,VO (Oral),Faringoamigdalitis / Infecciones piel,"Emb: B
+
+Lact: Seguro (A)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefalexina,Antibiótico (Cefalosporina 1ª),25 - 50 mg/kg/día(Severa: 100),c/6 - 8 h,4 g/día,VO (Oral),Infecciones piel / ITU / OMA,"Emb: B
+
+Lact: Seguro (A)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefalotina,Antibiótico (Cefalosporina 1ª),80 - 160 mg/kg/día,c/4 - 6 h,12 g/día,IV / IM,Infecciones sistémicas,"Emb: B
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefamandol,Antibiótico (Cefalosporina 2ª),50 - 150 mg/kg/día,c/4 - 6 h,12 g/día,IV / IM,Infecciones respiratorias / Piel,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefapirina,Antibiótico (Cefalosporina 1ª),40 - 50 mg/kg/día,c/12 h,No especificado,IV / IM,Infecciones susceptibles,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Cefazolina,Antibiótico (Cefalosporina 1ª),25 - 50 mg/kg/día(Severa: 100),c/6 - 8 h,6 g/día,IV / IM,Profilaxis quirúrgica / Infecciones,"Emb: B
+
+Lact: Seguro (A)","Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Intervalo (I)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefalotina,Antibiótico (Cefalosporina 1ª),80 - 160 mg/kg/día,c/4 - 6 h,12 g/día,IV / IM,Infecciones sistémicas,"Emb: B
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefamandol,Antibiótico (Cefalosporina 2ª),50 - 150 mg/kg/día,c/4 - 6 h,12 g/día,IV / IM,Infecciones respiratorias / Piel / Oseas,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefapirina,Antibiótico (Cefalosporina 1ª),"40 - 50 mg/kg/día(Neonatos)
+
+RNAT: 50-60 mg/kg/día","c/12 h (RNPT)
+
+c/8 h (RNAT)",No especificado,IV / IM,Sepsis / Infecciones susceptibles,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefdinir,Antibiótico (Cefalosporina 3ª),14 mg/kg/día,c/12 - 24 h,600 mg/día,VO (Oral),OMA / Sinusitis / Faringitis,"Emb: B
+
+Lact: Seguro (D)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (D) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefepima,Antibiótico (Cefalosporina 4ª),"100 - 150 mg/kg/día
+
+Neutropenia Febril: 150 mg/kg/día (50 mg/kg c/8h)",c/8 - 12 h,6 g/día,IV / IM,Infecciones severas / Neutropenia febril,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+"Cefixima, trihidrato",Antibiótico (Cefalosporina 3ª),8 mg/kg/día,c/12 - 24 h,400 mg/día,VO (Oral),ITRS / ITU / Gonorrea,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefodizima,Antibiótico (Cefalosporina 3ª),60 - 100 mg/kg/día,c/12 - 24 h,4 g/día,IV / IM,Infecciones tracto respiratorio / Urinario,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefoperazona,Antibiótico (Cefalosporina 3ª),50 - 200 mg/kg/día,c/8 - 12 h,12 g/día,IV / IM,Infecciones severas / Biliares,"Emb: B
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefoperazona / Sulbactam,Antibiótico + Inhibidor Betalactamasa,40 - 80 mg/kg/día,c/6 - 12 h,No especificado,IV / IM,Infecciones polimicrobianas,"Emb: B
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cefotetan sódico,Antibiótico (Cefalosporina 2ª),40 - 80 mg/kg/día,c/12 h,6 g/día,IV / IM,Infecciones intraabdominales / Pélvicas,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefoxitina sódica,Antibiótico (Cefalosporina 2ª),80 - 160 mg/kg/día(Graves),c/4 - 6 h,12 g/día,IV / IM,Infecciones anaerobias / Abdominales,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+Cefpirome,Antibiótico (Cefalosporina 4ª),30 - 100 mg/kg/día,c/12 h,4 g/día,IV,Infecciones graves / Nosocomiales,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefpodoxima proxetil,Antibiótico (Cefalosporina 3ª),6 - 10 mg/kg/día,c/12 h,800 mg/día,VO (Oral),OMA / Sinusitis / Neumonía,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefprozil,Antibiótico (Cefalosporina 2ª),15 - 30 mg/kg/día,c/12 h,1 g/día,VO (Oral),Faringoamigdalitis / OMA / Piel,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cefradina,Antibiótico (Cefalosporina 1ª),25 - 50 mg/kg/día(Severa: 100),c/6 - 12 h,4 g/día,VO / IM / IV,Infecciones piel / Respiratorias,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+"Ceftarolina, fosamil",Antibiótico (Cefalosporina 5ª - Anti MRSA),"2m-2a: 8 mg/kg
+
+>2a (<19kg): 12 mg/kg
+
+>2a (>19kg):400-600 mg",c/8 h (c/12h si >33kg),600 mg/dosis,IV,Piel y tejidos blandos / Neumonía (Cubre MRSA),"Emb: B
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: B
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+Ceftazidima,Antibiótico (Cefalosporina 3ª),"100 - 150 mg/kg/día
+
+Meningitis: 150 mg/kg/día",c/8 h,6 g/día,IV / IM,Infecciones Pseudomonas / Meningitis,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+Ceftibuten,Antibiótico (Cefalosporina 3ª),9 mg/kg/día,c/24 h,400 mg/día,VO (Oral),OMA / Faringitis / ITRS,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Ceftizoxima,Antibiótico (Cefalosporina 3ª),150 - 200 mg/kg/día(Graves),c/6 - 8 h,12 g/día,IV / IM,Infecciones graves / Meningitis,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Ceftriaxona sódica,Antibiótico (Cefalosporina 3ª),"Estándar: 50 - 75 mg/kg/día
+
+Meningitis: 80 - 100 mg/kg/día (Máx 4g)
+
+Gonorrea: 1 g IM Dosis única",c/12 - 24 h,4 g/día (Meningitis),IV / IM,Meningitis / Neumonía / Gonorrea,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Cefuroxima, axetil",Antibiótico (Cefalosporina 2ª),"20 - 30 mg/kg/día
+
+Meningitis: 200 - 240 mg/kg/día (IV)","c/12 h (VO)
+
+c/6 - 8 h (IV)","1 g/día (VO)
+
+9 g/día (IV)",VO / IV / IM,OMA / Neumonía / Meningitis,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Intervalo entre dosis debe prolongarse
+Celecoxib,Antiinflamatorio (AINE - COX2),"10 - 25 kg: 50 mg/dosis
+
+>25 kg: 100 mg/dosis",c/12 h,400 mg/día,VO (Oral),Artritis Reumatoide Juvenil (>2 años),"Emb: C / D (3º trim)
+
+Lact: Precaución (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",yes,"Emb: C / D (3º trim)
+
+Lact: Precaución (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",Restringido (C),Seguro (Compatible),,Evitar su uso
+"Celipridinio, cloruro",Antiséptico bucofaríngeo,Dejar disolver 1 tableta en boca,3 a 4 veces al día,No especificado,VO (Local),Afecciones bucofaríngeas,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Cepalin (Extracto de cebolla + Heparina),Cicatrizante,Aplicar 3 - 4 veces al día con masaje,3 - 4 veces al día,No especificado,Tópico,Cicatrices / Queloides (Contractubex),"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Cetirizina, clorhidrato",Antihistamínico,"6-12 m: 2.5 mg/día
+
+2-5 a: 2.5 mg c/12h o 5 mg/día
+
+>6 a: 5 - 10 mg/día",DUD o c/12 h,10 mg/día,VO (Oral),Rinitis alérgica / Urticaria,"Emb: B
+
+Lact: Precaución (B)","Hígado: Intervalo (I)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Intervalo (I)
+
+Riñón: Intervalo (I)",Aceptado (B),Precaución,,Intervalo entre dosis debe prolongarse
+Cetirizina / Fenilefrina,Antihistamínico / Descongestionante,"2-5 años: 2.5 ml c/12h
+
+6-11 años: 5-10 ml c/12-24h
+
+>12 años: 1 cápsula c/12h",c/12 - 24 h,No especificado,VO (Oral),Congestión nasal / Alergias,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,No requiere ajuste,Evitar su uso
+Cetirizina / Fenilefrina / Acetaminofén,Antihistamínico / Descong / Analgésico,>12 años: 1 cápsula,c/12 h,No especificado,VO (Oral),Gripe con congestión y dolor,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,,Evitar su uso
+Cianocobalamina,Vitamina B12,Véase Vitamina B12,-,-,-,-,-,-,yes,- | -,,,,
+Ciclesonida,Corticosteroide inhalado,80 - 160 µg (1 o 2 disparos),1 vez al día,320 µg/día,Inhalado,Asma persistente,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Ciclobenzaprina, clorhidrato",Relajante muscular,"5 mg/dosis
+
+Max: 30 mg/día (x 2-3 semanas)",c/8 h,30 mg/día,VO (Oral),Espasmos musculares agudos,"Emb: B
+
+Lact: Precaución (A)","Hígado: Precaución (C)
+
+Riñón: Evitar (X)",yes,"Emb: B
+
+Lact: Precaución (A) | Hígado: Precaución (C)
+
+Riñón: Evitar (X)",Aceptado (B),Seguro (Compatible),,Evitar su uso
+Ciclofosfamida (CYT),Antineoplásico / Inmunosupresor,"Inducción: 40-50 mg/kg (dividido 2-5 días)
+
+Mantenimiento:2-5 mg/kg/día (VO) o 10-15 mg/kg (IV c/7-10d)",Variable según protocolo,No especificado,IV / VO,Leucemias / Linfomas / S. Nefrótico,"Emb: D (Teratogénico)
+
+Lact: Evitar (D)","Hígado: Precaución (C)
+
+Riñón: Precaución (D)",yes,"Emb: D (Teratogénico)
+
+Lact: Evitar (D) | Hígado: Precaución (C)
+
+Riñón: Precaución (D)",Riesgo (D),Contraindicado,,Dosis debe disminuirse
+"Ciclopentolato, clorhidrato",Anticolinérgico / Midriático,1 gota en saco conjuntival,Repetir a los 5 min (según necesidad),No especificado,Oftálmica,Fondo de ojo / Refracción,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Ciclopirox (Ciclopiroxolamina),Antimicótico tópico,Aplicar una capa delgada,2 veces al día (crema) / c/48h (laca),No especificado,Tópico / Laca,Tiña / Onicomicosis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Cicloserina,Antibiótico (Antituberculoso),10 - 20 mg/kg/día,c/12 h,1 g/día (Adultos),VO (Oral),Tuberculosis resistente,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+"Clindamicina, fosfato",Antibiótico lincosánido tópico,Aplicar en zona afectada,2 veces al día,No especificado,Tópico,Acné vulgar,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Clobazam,Benzodiacepina (Ansiolítico),"<15 años: 5 mg/día
+
+>15 años: 5 - 10 mg/día",c/8 - 12 h,20 - 30 mg/día,VO (Oral),Ansiedad / Anticonvulsivo,"Emb: D (Riesgo)
+
+Lact: Precaución (A)","Hígado: Precaución (D)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (A) | Hígado: Precaución (D)
+
+Riñón: Seguro (A)",Riesgo (D),Seguro (Compatible),,No requiere ajuste
+"Clobetasol, propionato",Corticosteroide tópico (Potente),Aplicar capa fina en zona afectada,2 veces al día,No usar > 14 días,Tópico,Dermatosis inflamatorias severas,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Clomipramina, clorhidrato",Antidepresivo tricíclico,10 - 50 mg/día(iniciar con 25 mg),1 vez al día (noche),200 mg/día,VO (Oral),Depresión / TOC,"Emb: D (Riesgo)
+
+Lact: Precaución (B)","Hígado: Precaución (D)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (B) | Hígado: Precaución (D)
+
+Riñón: Seguro (A)",Riesgo (D),Precaución,,No requiere ajuste
+Clomifeno,Inductor de la ovulación,50 mg/día,c/24 h (por 5 días),100 mg/día,VO (Oral),Inducción ovulación / Infertilidad,"Emb: X (Contraindicado)
+
+Lact: Precaución (C)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: X (Contraindicado)
+
+Lact: Precaución (C) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Contraindicado (X),Contraindicado,,No requiere ajuste
+Clonazepam,Benzodiacepina (Anticonvulsivo),"<10 años: 0.01 - 0.03 mg/kg/día
+
+>10 años: 1.5 mg/día",c/8 h (dividido en 3 tomas),0.2 mg/kg/día (niños),VO (Oral),Epilepsia / Pánico / Ansiedad,"Emb: D (Riesgo)
+
+Lact: Precaución (A)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (A) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Riesgo (D),Seguro (Compatible),,No requiere ajuste
+"Clonidina, clorhidrato",Antihipertensivo (Agonista alfa-2),"5 - 10 µg/kg/día
+
+TDAH: 0.05 mg/día",c/8 - 12 h,0.9 mg/día,VO (Oral),Hipertensión / TDAH / Abstinencia,"Emb: C
+
+Lact: Precaución (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,No requiere ajuste,No requiere ajuste
+"Clopidogrel, sulfato",Antiagregante plaquetario,"<2 años: 1 mg/kg
+
+>2 años: 1 mg/kg (Max 75mg)",c/24 h (DUD),75 mg/día,VO (Oral),Prevención trombosis / ACV,"Emb: B
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,,No requiere ajuste
+Clorambucil,Antineoplásico (Alquilante),0.1 - 0.2 mg/kg/día,Dosis única diaria,No especificado,VO (Oral),Leucemia / Linfoma / S. Nefrótico,"Emb: D (Riesgo)
+
+Lact: Evitar (D)","Hígado: Precaución (B)
+
+Riñón: Precaución (X)",yes,"Emb: D (Riesgo)
+
+Lact: Evitar (D) | Hígado: Precaución (B)
+
+Riñón: Precaución (X)",Riesgo (D),Precaución,,Evitar su uso
+"Cloranfenicol, estearato",Antibiótico (Bacteriostático),50 - 100 mg/kg/día,c/6 h,2 - 3 g/día,VO (Oral),Fiebre tifoidea / Meningitis / Abscesos,"Emb: C
+
+Lact: Evitar (B)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Evitar (B) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Cloranfenicol, succinato",Antibiótico sistémico,50 - 100 mg/kg/día,c/6 h,100 mg/kg/día,IV,Meningitis / Sepsis,"Emb: C
+
+Lact: Evitar (B)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Evitar (B) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Clorazepato dipotásico,Benzodiacepina (Ansiolítico),"<9 años: 0.03 mg/kg/día (Inicio)
+
+Mant: 0.5 - 3 mg/kg/día",c/8 - 12 h,60 mg/día,VO (Oral),Ansiedad / Abstinencia alcohol,"Emb: D (Riesgo)
+
+Lact: Precaución (C)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Precaución (C) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Riesgo (D),Contraindicado,,No requiere ajuste
+Clorfeniramina / Acetaminofén / Fenilefrina,Antihistamínico / Analgésico / Descong.,"2-4 años: 5 ml c/6h
+
+4-6 años: 7.5 ml c/6h",c/6 h,No especificado,VO (Oral),Gripe / Resfriado común,"Emb: B / C
+
+Lact: Precaución (C)","Hígado: Precaución (C)
+
+Riñón: Precaución (C)",yes,"Emb: B / C
+
+Lact: Precaución (C) | Hígado: Precaución (C)
+
+Riñón: Precaución (C)",Aceptado (B),Contraindicado,,
+"Clorfeniramina, maleato",Antihistamínico,"0.35 mg/kg/día
+
+2-5 años: 1 mg/dosis",c/6 h,12 mg/día (según edad),VO / IV / IM,Rinitis alérgica / Urticaria,"Emb: B
+
+Lact: Precaución (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Contraindicado,No requiere ajuste,No requiere ajuste
+Clorfeniramina / Dextrometorfano,Antihistamínico / Antitusivo,"2-5 años: 2.5 ml
+
+6-11 años: 5 ml",c/6 h,No especificado,VO (Oral),Tos irritativa / Alergia,"Emb: B
+
+Lact: Precaución (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Contraindicado,No requiere ajuste,No requiere ajuste
+"Clorhexidina, digluconato",Antiséptico tópico,Enjuague: 10 ml x 30 seg,2 a 3 veces al día,No especificado,Tópico (Buca),Gingivitis / Placa bacteriana,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Cloroprocaina, clorhidrato",Anestésico local,Bloqueo: 11 mg/kg (sin adrenalina),Según procedimiento,800 mg,Infiltración,Anestesia local / Bloqueo,"Emb: C
+
+Lact: Seguro (A)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),,No requiere ajuste
+Clorofenotiazinilscopina,Antiemético,"1 gota/kg/día
+
+1 comp: c/8 h",c/8 h,No especificado,VO / IM,Vómitos / Nauseas,"Emb: B
+
+Lact: Evitar (D)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Evitar (D) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Clorpromazina, clorhidrato (CPZ)",Antipsicótico / Antiemético,"Antiemético: 0.5 - 1 mg/kg/dosis
+
+Psicosis: 0.5 - 1 mg/kg/dosis",c/6 - 8 h,No especificado,VO / IM / IV,Psicosis / Vómito severo / Hipo,"Emb: C
+
+Lact: Evitar (B)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Evitar (B) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,No requiere ajuste,Evitar su uso
+"Cloroquina, fosfato",Antimalárico / Amebicida,"10 mg/kg (inicial), luego 5 mg/kg","A las 6, 24 y 48 h",No especificado,VO (Oral),Malaria / Amebiasis extraintestinal,"Emb: C
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+Clortalidona,Diurético tiazídico,1 - 2 mg/kg/día,c/24 h,2 mg/kg/día,VO (Oral),Edema / Hipertensión,"Emb: B
+
+Lact: Precaución (A)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (A) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+Cloruro de magnesio,Electrolito,0.2 - 0.4 mEq/kg/dosis,c/4 - 6 h,No especificado,VO / IV,Hipomagnesemia,"Emb: C
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+Cloruro de potasio (KCl),Electrolito,"Hipokalemia: 3 - 4 mEq/kg/día
+
+Mant: 2 - 8 mEq/kg/día",c/24 h (o dividido),3 mEq/kg/día (IV),VO / IV,Hipokalemia / Aporte electrolítico,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Cloruro de sodio (NaCl),Electrolito,"Mant: 2 - 8 mEq/kg/día
+
+Hiponatremia:Fórmula déficit",c/24 h (o según bomba),No especificado,IV / VO,Hiponatremia / Deshidratación,"Emb: C
+
+Lact: Seguro (B)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: C
+
+Lact: Seguro (B) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Restringido (C),Precaución,No requiere ajuste,Intervalo entre dosis debe prolongarse
+Cloruro de sodio / Cloruro de potasio (Corpaúl),Solución salina balanceada,1 gota en saco conjuntival,c/3 a 4 h,No especificado,Oftálmica,Edema corneal / Descongestionante,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Cloruro de Zinc,Antiséptico bucofaríngeo,Diluir 10 gotas en 1/4 vaso agua,Hacer enjuagues,No especificado,Tópico (Buca),Afecciones bucales,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Clorzoxazona,Relajante muscular,20 mg/kg/día,c/6 - 8 h,No especificado,VO (Oral),Espasmos musculares,"Emb: C
+
+Lact: Precaución (D)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (D) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Cloxacilina,Antibiótico (Penicilina),50 - 100 mg/kg/día,c/6 h,4 g/día,VO / IV,Infecciones estafilocócicas,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Clozapina,Antipsicótico atípico,12.5 - 475 mg/día(iniciar bajo),c/12 - 24 h,900 mg/día (Adultos),VO (Oral),Esquizofrenia refractaria,"Emb: B
+
+Lact: Evitar (C)","Hígado: Precaución (B)
+
+Riñón: Precaución (A)",yes,"Emb: B
+
+Lact: Evitar (C) | Hígado: Precaución (B)
+
+Riñón: Precaución (A)",Aceptado (B),Contraindicado,,No requiere ajuste
+"Cocaína, clorhidrato",Anestésico tópico,Aplicar en mucosas al 1 a 4%,Dosis única,Máx: 1 - 3 mg/kg,Tópico,Anestesia local (ORL),"Emb: C/X
+
+Lact: Contraindicado (X)","Hígado: Evitar (D)
+
+Riñón: Evitar (X)",yes,"Emb: C/X
+
+Lact: Contraindicado (X) | Hígado: Evitar (D)
+
+Riñón: Evitar (X)",Restringido (C),,,Evitar su uso
+"Codeína, fosfato / Acetaminofén",Analgésico opioide débil,0.5 - 1 mg (codeína)/kg/dosis,c/4 - 6 h,No especificado,VO (Oral),Dolor moderado a severo,"Emb: C/D
+
+Lact: Precaución (A)","Hígado: Precaución (A)
+
+Riñón: Evitar (X)",yes,"Emb: C/D
+
+Lact: Precaución (A) | Hígado: Precaución (A)
+
+Riñón: Evitar (X)",Restringido (C),Seguro (Compatible),No requiere ajuste,Evitar su uso
+"Cobre, sulfato",Antídoto,0.25 - 0.3 g,Dosis única,No especificado,VO (Oral),Intoxicación por fósforo inorgánico,"Emb: C
+
+Lact: Precaución (C)","Hígado: Evitar (D)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Evitar (D)
+
+Riñón: Evitar (X)",Restringido (C),Contraindicado,,Evitar su uso
+Colchicina,Antigotoso,"Crisis: 0.6 mg (1 tab) cada hora
+
+Profilaxis: 0.5 mg/kg/semana","Crisis: c/1-2h
+
+Prof: 1 ó 2 sem",Hasta aliviar dolor o diarrea,VO (Oral),Gota (Crisis aguda) / Fiebre mediterránea,"Emb: D (Riesgo)
+
+Lact: Seguro (A)","Hígado: Precaución (D)
+
+Riñón: Precaución (A)",yes,"Emb: D (Riesgo)
+
+Lact: Seguro (A) | Hígado: Precaución (D)
+
+Riñón: Precaución (A)",Riesgo (D),Seguro (Compatible),,No requiere ajuste
+Colecalciferol,Vitamina D3,Véase Vitamina D3,-,-,-,-,-,-,yes,- | -,,,,
+"Colestipol, clorhidrato",Hipolipemiante (Resina),5 - 10 g/día,c/12 - 24 h,No especificado,VO (Oral),Hipercolesterolemia,"Emb: B
+
+Lact: Seguro (C)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (C) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Contraindicado,No requiere ajuste,No requiere ajuste
+"Colfoceril, palmitato",Surfactante sintético,"5 ml/kg (al nacer, a las 12 y 24h)",Dosis a las 12 y 24h,No especificado,Intratraqueal (IT),Profilaxis/Rescate SDR Neonatal,"Emb: ?
+
+Lact: ?","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: ?
+
+Lact: ? | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",,Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Colistimetato sódico (Colistina),Antibiótico (Polimixina),2.5 - 5 mg/kg/día,c/6 - 12 h,No especificado,IV / IM / Inhalado,Infecciones Gram-negativos multirresistentes,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Precaución,No requiere ajuste,Dosis debe disminuirse
+"Complejo B (B1, B6, B12)",Vitamina hidrosoluble,0.5 ml IM semanal,Semanal,No especificado,IM,Déficit vitamínico / Neuritis,"Emb: A/C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A/C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Complejo coagulante inhibidor (AICC),Agente antihemorrágico,50 - 100 UI/kg/dosis,c/12 h,100 UI/kg/dosis,IV,Hemofilia con inhibidores,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Complemento calórico,Suplemento nutricional,1 medida (5 g) = 20 Kcal,Según necesidad,No especificado,VO (Oral),Desnutrición / Aporte calórico,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Complemento nutricional,Fórmula polimérica,Adultos: 1 a 3 cucharadas o medidas en un vaso de agua,1 a 3 veces al día,No especificado,VO (Oral),Suplementación dietaria,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Complemento proteico,Suplemento proteico,3 - 10 g c/8h,c/8 h,No especificado,VO (Oral),Hipoproteinemia / Desnutrición,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Coprofloxacina (Ciprofloxacina),Antibiótico (Fluoroquinolona),20 - 30 mg/kg/día,c/12 h,1.5 g/día (Adultos),VO / IV,Infecciones (Limitado en pediatría),"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (C)
+
+Riñón: Intervalo (I)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (C)
+
+Riñón: Intervalo (I)",Restringido (C),Precaución,,Intervalo entre dosis debe prolongarse
+"Cortisona, acetato",Corticosteroide,2.5 - 10 mg/kg/día(Fisiológica: 0.25-0.35),c/12 - 24 h,300 mg/m²/día,IM / VO,Insuficiencia adrenal / Inflamación,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Cosintropina (ACTH sintética),Agente diagnóstico,"<2 años:0.125 mg
+
+>2 años: 0.25 mg",Dosis única,No especificado,IM / IV,Prueba estimulación suprarrenal,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Cotrimazina / Cotrimazol,Antibiótico,Véase Trimetoprim / Sulfadiazina,-,-,-,-,-,-,yes,- | -,,,,
+Crioprecipitado,Hemoderivado,1 bolsa = 80 - 100 U Factor VIII,Según nivel deseado,No especificado,IV,Hemofilia A / Déficit Fibrinógeno / Von Willebrand,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Cromoglicato sódico,Antialérgico / Estabilizador mastocitos,"Rinitis: 2-3 atomizaciones
+
+Ojo: 1-2 gotas",c/fosa nasal o c/ojo c/6 h,No especificado,Nasal / Oftálmica,Rinitis alérgica / Conjuntivitis alérgica,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Crotamitón,Escabicida / Antipruriginoso,Aplicar 2 ó 3 veces al día,2 ó 3 veces al día,No especificado,Tópico,Prurito / Escabiosis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dacarbazina,Antineoplásico (Alquilante),200 - 470 mg/m²,c/21 - 28 días,No especificado,IV,Linfoma Hodgkin / Melanoma,"Emb: C
+
+Lact: Evitar (X)","Hígado: Reducir Dosis (D)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Evitar (X) | Hígado: Reducir Dosis (D)
+
+Riñón: Reducir Dosis (D)",Restringido (C),,,Dosis debe disminuirse
+Daclizumab,Inmunosupresor,1 mg/kg,Cada 14 días x 5 dosis,No especificado,IV,Profilaxis rechazo trasplante renal,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Dactinomicina,Antineoplásico,15 µg/kg/día(o 400-600 µg/m²),IV x 5 días (repetir c/3 a 6 sem),No especificado,IV,Tumor Wilms / Sarcomas,"Emb: D
+
+Lact: Evitar (D)","Hígado: Precaución (C)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: D
+
+Lact: Evitar (D) | Hígado: Precaución (C)
+
+Riñón: Reducir Dosis (D)",Riesgo (D),Contraindicado,,Dosis debe disminuirse
+Dalteparina sódica,Anticoagulante (HBPM),200 UI/kg/día(DUD o c/12h),c/24 h (DUD) o c/12 h,18.000 UI/día,SC (Subcutánea),Trombosis venosa profunda / Profilaxis,"Emb: B
+
+Lact: Seguro (A)","Hígado: Precaución (A)
+
+Riñón: Precaución (X)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Precaución (A)
+
+Riñón: Precaución (X)",Aceptado (B),Seguro (Compatible),No requiere ajuste,Evitar su uso
+Dantroleno,Relajante muscular directo,"Espasticidad:0.5 mg/kg/dosis
+
+Hipertermia:1 mg/kg (repetir)",c/12 h (luego c/6-8h),"Espast: 3 mg/kg/día
+
+Hipert: 10 mg/kg",VO / IV,Espasticidad / Hipertermia maligna,"Emb: C
+
+Lact: Precaución (B)","Hígado: Evitar (D)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Evitar (D)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Dapsona,Antileproso / Antibiótico,1 - 2 mg/kg/día,DUD (Una vez al día),100 mg/día,VO (Oral),Lepra / Dermatitis herpetiforme,"Emb: C
+
+Lact: Precaución (C)","Hígado: Precaución (D)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Precaución (C) | Hígado: Precaución (D)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Contraindicado,,Dosis debe disminuirse
+Daptomicina,Antibiótico (Lipopéptido),4 - 12 mg/kg,DUD (c/24 h),No especificado,IV,Infecciones piel / Estafilococo (SAMR),"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Precaución,No requiere ajuste,Intervalo entre dosis debe prolongarse
+Darbepoyetina alfa,Estimulante de eritropoyesis,0.45 µg/kg/dosis,1 vez por semana,No especificado,IV / SC,Anemia en insuficiencia renal crónica,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Darunavir, etanolato",Antirretroviral (Inh. Proteasa),"20 - 30 kg:375 mg
+
+30 - 40 kg:450 mg",c/12 h,No especificado,VO (Oral),VIH,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Daunorrubicina,Antineoplásico (Antraciclina),25 - 45 mg/m²,Dosis los días 1 y 8 (variable),No especificado,IV,Leucemia linfoide aguda (LLA),"Emb: D
+
+Lact: Evitar (D)","Hígado: Reducir Dosis (D)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: D
+
+Lact: Evitar (D) | Hígado: Reducir Dosis (D)
+
+Riñón: Reducir Dosis (D)",Riesgo (D),,,Dosis debe disminuirse
+Decametrina (Deltametrina),Pediculicida / Escabicida,"Aplicar en la noche, enjuagar en la mañana",Repetir a los 10-15 días,No especificado,Tópico,Escabiosis / Pediculosis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Deferasirox,Quelante de hierro,20 mg/kg/día,"DUD (VO, 30 min antes comida)",No especificado,VO (Oral),Sobrecarga de hierro crónica,"Emb: B
+
+Lact: Precaución (C)","Hígado: Precaución (D)
+
+Riñón: Precaución (C)",yes,"Emb: B
+
+Lact: Precaución (C) | Hígado: Precaución (D)
+
+Riñón: Precaución (C)",Aceptado (B),Contraindicado,,
+"Deferoxamina, mesilato",Quelante de hierro,20 - 40 mg/kg/día,c/8 - 12 h (o infusión cont),6 g/día,IM / IV,Intoxicación hierro / Hemocromatosis,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Precaución,No requiere ajuste,Dosis debe disminuirse
+Deflazacort,Glucocorticoide,0.25 - 1.5 mg/kg/día,Dosis única o interdiaria,120 mg/día (Adultos),VO (Oral),Inflamación / Inmunosupresión,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Desipramina, clorhidrato",Antidepresivo tricíclico,1 - 3 mg/kg/día,c/8 - 12 h (o DUD noche),5 mg/kg/día,VO (Oral),Depresión / TDAH,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (C)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (C)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Desloratadina,Antihistamínico (No sedante),"6-11 meses: 1 mg
+
+1-5 años:1.25 mg
+
+6-11 años: 2.5 mg
+
+>12 años: 5 mg",Dosis Única Diaria (DUD),5 mg/día,VO (Oral),Rinitis alérgica / Urticaria,"Emb: C
+
+Lact: Precaución (B)","Hígado: Intervalo (I)
+
+Riñón: Intervalo (I)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Intervalo (I)
+
+Riñón: Intervalo (I)",Restringido (C),Precaución,,Intervalo entre dosis debe prolongarse
+Desloratadina / Fenilefrina,Antihistamínico / Descongestionante,"2-5 años:1.25 mg (2.5ml)
+
+6-11 años: 2.5 mg (5ml)
+
+>12 años: 1 tab",c/12 h,No especificado,VO (Oral),Rinitis con congestión nasal,"Emb: C
+
+Lact: Precaución (B)","Hígado: Intervalo (I)
+
+Riñón: Intervalo (I)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Intervalo (I)
+
+Riñón: Intervalo (I)",Restringido (C),Precaución,,Intervalo entre dosis debe prolongarse
+"Desmopresina, acetato (DDAVP)",Antidiurético (Análogo vasopresina),"Enuresis: 20 - 40 µg IN (noche)
+
+Diabetes insípida: 5 - 30 µg/día",1 vez al día (Enuresis) / c/12-24h,No especificado,Nasal / VO / IV,Enuresis nocturna / Diabetes insípida,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Desonida,Corticosteroide tópico (Baja potencia),Aplicar capa delgada,2 a 3 veces al día,No especificado,Tópico,Dermatitis atópica / Eczema leve,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Desonide / Ketoconazol,Corticoide / Antimicótico tópico,Aplicar en área afectada,2 veces al día,No especificado,Tópico,Dermatitis infectadas / Tiña,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Desoxicorticosterona, acetato",Mineralocorticoide,1 - 3 mg/día,Dosis única diaria,5 mg/día,IM,Insuficiencia suprarrenal / Addison,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Dexametasona, fosfato",Corticosteroide sistémico,"Antiinflamatorio:0.08 - 0.3 mg/kg/día
+
+Crup: 0.6 mg/kg (DUD)
+
+Meningitis: 0.6 mg/kg/día",c/6 - 12 h,No especificado,IV / IM / VO,Inflamación / Crup / Meningitis / Edema cerebral,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Dexametasona / Neomicina,Corticoide / Antibiótico oftálmico,1 ó 2 gotas en cada ojo,c/hora (agudo) luego c/3-4h,No especificado,Oftálmica,Conjuntivitis bacteriana / Inflamación ocular,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dexketoprofeno trometamol,AINE / Analgésico,Adultos: 25 mg,c/8 h,75 mg/día,VO (Oral),Dolor agudo de leve a moderado,"Emb: B
+
+Lact: Precaución (A)","Hígado: Precaución (B)
+
+Riñón: Evitar (X)",yes,"Emb: B
+
+Lact: Precaución (A) | Hígado: Precaución (B)
+
+Riñón: Evitar (X)",Aceptado (B),Seguro (Compatible),,Evitar su uso
+Dexlansoprazol,Inhibidor bomba de protones (IBP),>18 años: 30 mg (RGE) o 60 mg (Erosiva),c/24 h,60 mg/día,VO (Oral),Reflujo (RGE) / Esofagitis erosiva,"Emb: B
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,,No requiere ajuste
+"Dexmedetomidina, clorhidrato",Sedante (Agonista alfa-2),"Carga: 0.5 - 1 µg/kg (en 10 min)
+
+Mant: 0.2 - 0.7 µg/kg/h",Infusión continua,No especificado,IV,Sedación en UCI / Procedimientos,"Emb: C
+
+Lact: Precaución (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),,No requiere ajuste
+"Dexmetilfenidato, clorhidrato",Estimulante SNC,2.5 - 5 mg/día (o dividir dosis de metilfenidato a la mitad),c/12 h (DUD en retard),20 mg/día,VO (Oral),TDAH (Déficit de Atención),"Emb: C
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dexrazoxano,Cardioprotector / Antídoto,10:1 respecto a dosis de doxorrubicina (ej. 500 mg/m²),IV (Infusión),No especificado,IV,Prevención cardiotoxicidad por antraciclinas,"Emb: C
+
+Lact: Evitar (C)","Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Evitar (C) | Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Contraindicado,,Dosis debe disminuirse
+Dextrán (40 / 70),Expansor plasmático,10 - 20 ml/kg(Dosis inicial),Primeras 24h: Máx 20 ml/kg,10 ml/kg/día (después de 24h),IV,Shock hipovolémico / Expansor volumen,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Evitar (X)",Restringido (C),Seguro (Compatible),No requiere ajuste,Evitar su uso
+Dextroanfetamina,Estimulante SNC,"3-5 años: 2.5 mg/día
+
+>6 años: 5 mg/día (o c/12-24h)",c/12 - 24 h,40 mg/día (Narcolepsia: 60 mg),VO (Oral),TDAH / Narcolepsia,"Emb: C
+
+Lact: Evitar (D)","Hígado: Precaución (C)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Evitar (D) | Hígado: Precaución (C)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,,No requiere ajuste
+"Dextrometorfano, bromhidrato",Antitusivo no narcótico,"2-6 años: 7.5 mg (2.5-5 ml)
+
+6-12 años: 15 mg (5-10 ml)",c/6 - 8 h,"2-6a: 30 mg/día
+
+6-12a: 60 mg/día",VO (Oral),Tos seca / irritativa,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dextrometorfano / Ambroxol,Antitusivo / Mucolítico,"2-3 años: 5 ml
+
+4-6 años: 7.5 ml
+
+>6 años: 10 ml",c/6 - 8 h,No especificado,VO (Oral),Tos productiva,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Dextrometorfano / Bromhexina,Antitusivo / Mucolítico,"2-6 años: 2.5 ml
+
+6-12 años: 5 ml
+
+>12 años: 10 ml",c/6 - 8 h,No especificado,VO (Oral),Tos con flemas,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Dextrometorfano / Clorfeniramina,Antitusivo / Antihistamínico,"2-6 años: 2.5 ml
+
+>6 años: 5 ml",c/6 h,No especificado,VO (Oral),Tos alérgica / Tos nocturna,"Emb: C
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dextrometorfano / Guayacolato (Guaifenesina),Antitusivo / Expectorante,"2-6 años: 1 - 2 gotas/kg/dosis (o 2.5-5 ml)
+
+6-12 años: 5 - 10 ml",c/4 - 6 h,No especificado,VO (Oral),Tos productiva / Bronquitis,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dextrosa (Glucosa),Agente hiperglicemiante,"Neonatos: 0.1-0.2 g/kg/dosis (2-5 ml/kg DAD 10%)
+
+Niños: 0.5 - 1 g/kg/dosis (D. máx 10-25 g)",Según necesidad / Bomba,No especificado,IV,Hipoglicemia / Aporte calórico,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Diacepam (Diazepam),Benzodiacepina,"Status: 0.2 - 0.3 mg/kg/dosis IV (repetir c/15-30 min)
+
+Sedación: 0.2 - 0.4 mg/kg/dosis",c/6 - 8 h,10 mg/dosis (IV),IV / VO / Rectal,Convulsiones / Status epiléptico / Sedación / Espasmos,"Emb: D
+
+Lact: Precaución (C)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: D
+
+Lact: Precaución (C) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Riesgo (D),Contraindicado,,No requiere ajuste
+Dibucaína,Anestésico tópico,Aplicar en área afectada,3 ó 4 veces al día,30 g (Tubo),Tópico,Hemorroides / Dolor piel,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Diciclomina (Dicicloverina),Antiespasmódico,"Lactantes >6m:5 mg/dosis
+
+Niños: 10 mg/dosis",c/6 - 8 h,40 mg/día (Niños),VO (Oral),Cólicos / Colon irritable,"Emb: B
+
+Lact: Contraindicado (D)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Contraindicado (D) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Diclofenaco potásico,AINE / Analgésico,"0.5 - 1 mg/kg/día
+
+Adultos: 50 mg/dosis",c/8 - 12 h,150 mg/día,VO (Oral),Dolor agudo / Inflamación (Inicio rápido),"Emb: B / D (3º trim)
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",yes,"Emb: B / D (3º trim)
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",Aceptado (B),Seguro (Compatible),,Evitar su uso
+Diclofenaco sódico,AINE / Antiinflamatorio,0.5 - 1 mg/kg/día(o 2-3 mg/kg/día rectales),c/8 - 12 h,150 mg/día,VO / IM / Rectal,Artritis / Inflamación / Dolor,"Emb: B / D (3º trim)
+
+Lact: Seguro (A)","Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",yes,"Emb: B / D (3º trim)
+
+Lact: Seguro (A) | Hígado: Reducir Dosis (D)
+
+Riñón: Evitar (X)",Aceptado (B),Seguro (Compatible),,Evitar su uso
+"Diclonina, clorhidrato",Anestésico local oral,Hacer colutorios con 5-10 ml al 0.5% - 1%,3 ó 4 veces al día,No especificado,VO (Local),Dolor garganta / Procedimientos orales,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dicloroisocianurato de sodio,Potabilizador de agua,1 tableta en 1 litro de agua,Dejar reposar 10 a 30 min,No especificado,Solución (No ingerir directa),Desinfección de agua / Biberones,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dicloxacilina,Antibiótico (Penicilina),"25 - 50 mg/kg/día(Infección leve)
+
+100 mg/kg/día(Infección severa)",c/6 h,4 g/día,VO / IV / IM,Infecciones piel / Estafilococo productor penicilinasa,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Didanosina (ddI),Antirretroviral,"<3 meses: 100 mg/m²/día
+
+>3 meses: 180 - 240 mg/m²/día",c/12 h,No especificado,VO (Oral),VIH,"Emb: B
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Evitar (X)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Evitar (X)",Aceptado (B),Precaución,,Evitar su uso
+Dietiltoluamida (DEET),Repelente de insectos,Aplicar en piel expuesta (evitar mucosas/ojos),Repetir cada 8 h,No especificado,Tópico,Prevención picaduras insectos,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Difenhidramina, clorhidrato",Antihistamínico,"1 - 2 mg/kg/dosis
+
+Adultos: 25 - 50 mg/dosis",c/6 - 8 h,300 mg/día,VO / IV / IM,Alergias / Anafilaxia / Insomnio,"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Intervalo (I)",Aceptado (B),Precaución,No requiere ajuste,Intervalo entre dosis debe prolongarse
+Difenoxilato,Antidiarreico,"0.2 - 0.3 mg/kg/dosis(c/6-8h)
+
+>12 años: 2 tabletas iniciales",c/6 - 8 h,No especificado,VO (Oral),Diarrea (Uso limitado en niños),"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Diflucortolona, valerato",Corticosteroide tópico,Aplicar capa fina,2 ó 3 veces al día,No especificado,Tópico,Dermatitis infectadas / Inflamación piel,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Digoxina,Glucósido cardíaco,"Impregnación (µg/kg): Prem: 20-30, RN: 25-35, 1m-2a: 35-60, 2-5a: 30-40, >10a: 10-15","1/2 dosis inicial, luego 1/4 a las 8h y 16h",No especificado,IV / IM / VO,Insuficiencia cardíaca / Arritmias,"Emb: C
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+"Dihidrocodeína, bitartrato",Antitusivo narcótico / Analgésico,"0.3 mg/kg/día
+
+Adultos: 10 ml (40 gotas)",c/8 h,No especificado,VO (Oral),Tos improductiva severa / Dolor,"Emb: B/D
+
+Lact: Seguro (A)","Hígado: Seguro (B*)
+
+Riñón: Seguro (A)",yes,"Emb: B/D
+
+Lact: Seguro (A) | Hígado: Seguro (B*)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),,No requiere ajuste
+"Dihidroergotamina, mesilato (DHE)",Antimigrañoso,0.25 - 1 mg/dosis,c/30 min (VO) - Repetir c/h (IM),5 mg/día,VO / IM / IV / Nasal,Migraña / Cefalea vascular,"Emb: X (Contraindicado)
+
+Lact: Evitar (X)","Hígado: Evitar (X)
+
+Riñón: Evitar (X)",yes,"Emb: X (Contraindicado)
+
+Lact: Evitar (X) | Hígado: Evitar (X)
+
+Riñón: Evitar (X)",Contraindicado (X),,Evitar su uso,Evitar su uso
+"Diloxanida, furoato",Amebicida luminal,20 mg/kg/día,c/8 h (x 10 días),1.500 mg/día (Adultos),VO (Oral),Amebiasis asintomática (Luminal),"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Diltiazem, clorhidrato",Calcioantagonista,1.5 - 2 mg/kg/día,c/8 - 12 h,3.5 mg/kg/día,VO (Oral),Hipertensión / Angina / Arritmias,"Emb: C
+
+Lact: Evitar (A)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Evitar (A) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),,No requiere ajuste
+Dimenhidrinato,Antiemético / Antihistamínico,5 mg/kg/día (o 150 mg/m²),c/6 h,300 mg/día (Adultos),VO / IM / IV / Rectal,Mareo por movimiento / Vómitos,"Emb: B
+
+Lact: Precaución (B*)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B*) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Usar con reserva (Sin datos),No requiere ajuste,No requiere ajuste
+Dimercaprol (B.A.L.),Antídoto (Quelante),2.5 - 5 mg/kg/dosis,"c/4 h (Día 1-2), luego c/12h",No especificado,IM (Profunda),"Intoxicación arsénico, oro, mercurio, plomo","Emb: C
+
+Lact: Precaución (B)","Hígado: Evitar (D)
+
+Riñón: Evitar (D)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Evitar (D)
+
+Riñón: Evitar (D)",Restringido (C),Precaución,,Dosis debe disminuirse
+Dimeticona,Antiflatulento,"Lactantes: 2 - 5 gotas (antes tomas)
+
+Niños: 10 - 20 gotas",c/6 - 8 h,No especificado,VO (Oral),Cólicos / Gases / Flatulencia,"Emb: ?
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: ?
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",,Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dimetilpolisiloxano,Antiflatulento,Véase Dimeticona,-,-,-,-,-,-,yes,- | -,,,,
+Dimetiltubocurarina,Bloqueante neuromuscular,Véase Tubocurarina,-,-,-,-,-,-,yes,- | -,,,,
+"Dimetindeno, maleato",Antihistamínico,0.02 - 0.04 mg/kg/dosis,c/8 h,No especificado,VO (Oral),Alergias / Prurito,"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Dinitrato de isosorbide,Vasodilatador (Nitrato),"Véase Isosorbide, dinitrato",-,-,-,-,-,-,yes,- | -,,,,
+Diosmectita,Antidiarreico / Protector,"<1 año: 1 sobre/día
+
+1-2 años: 1-2 sobres/día
+
+>2 años: 2-3 sobres/día",Dividido en tomas,No especificado,VO (Oral),Diarrea aguda / Protección mucosa,"Emb: ?
+
+Lact: Seguro (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: ?
+
+Lact: Seguro (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",,Precaución,No requiere ajuste,No requiere ajuste
+Dióxido de titanio,Protector solar (Físico),Aplicar 30 min antes de exposición,Repetir según necesidad,No especificado,Tópico,Protección solar total,"Emb: A
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: A
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Seguro (A),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dipirona (Metamizol),Analgésico / Antipirético,10 - 15 mg/kg/dosis,c/6 - 8 h,40 mg/kg/día,VO / IM / IV / Rectal,Dolor / Fiebre alta,"Emb: C / D (3º trim)
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Precaución (A)",yes,"Emb: C / D (3º trim)
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Precaución (A)",Restringido (C),Precaución,,No requiere ajuste
+"Dobitamina, clorhidrato",Inotrópico (Agonista beta-1),2 - 20 µg/kg/min,Infusión continua,40 µg/kg/min,IV (Infusión),Shock cardiogénico / Insuf. cardíaca,"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Dobutamina,Inotrópico,Véase Dobitamina(Arriba),-,-,-,-,-,-,yes,- | -,,,,
+Docetaxel,Antineoplásico (Taxano),75 - 100 mg/m²,c/3 semanas,No especificado,IV,Cáncer de mama / Pulmón / Próstata,"Emb: D (Riesgo)
+
+Lact: Evitar (D)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Evitar (D) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Riesgo (D),,,No requiere ajuste
+Docusato sódico,Laxante emoliente,"<3 años: 10-40 mg/día
+
+3-6 años: 20-60 mg/día
+
+6-12 años: 40-150 mg/día",c/24 h (DUD) o dividido,No especificado,VO (Oral),Estreñimiento (Heces duras),"Emb: C
+
+Lact: Precaución (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+Dofetilida,Antiarrítmico (Clase III),Dosis individualizada,c/12 h,No especificado,VO (Oral),Fibrilación auricular / Flutter,"Emb: C
+
+Lact: Evitar (D)","Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",yes,"Emb: C
+
+Lact: Evitar (D) | Hígado: Seguro (A)
+
+Riñón: Reducir Dosis (D)",Restringido (C),Seguro (Compatible),No requiere ajuste,Dosis debe disminuirse
+"Dolasetrón, mesilato",Antiemético (5-HT3),1.8 mg/kg/dosis (o 100 mg),Dosis única (previo quimio),100 mg,VO / IV,Náuseas y vómitos (Quimio/Postquirúrgico),"Emb: B
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,No requiere ajuste,No requiere ajuste
+Domperidona,Antiemético / Procinético,0.2 - 0.4 mg/kg/dosis,c/8 h (antes comidas),2.4 mg/kg/día (o 80 mg),VO (Oral),Reflujo / Gastroparesia / Vómitos,"Emb: C
+
+Lact: Seguro (A)","Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (I)",yes,"Emb: C
+
+Lact: Seguro (A) | Hígado: Precaución (B)
+
+Riñón: Reducir Dosis (I)",Restringido (C),Seguro (Compatible),,Intervalo entre dosis debe prolongarse
+"Donepecilo, clorhidrato",Inhibidor colinesterasa,5 - 10 mg/día,Dosis única (noche),10 mg/día,VO (Oral),Alzheimer (Uso limitado pediatría),"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+"Dopamina, clorhidrato",Inotrópico / Vasopresor,"Renal: 2-5 µg/kg/min
+
+Inotrópico: 5-10 µg/kg/min
+
+Vasopresor:>10 µg/kg/min",Infusión continua,20 - 50 µg/kg/min,IV (Infusión),Shock / Insuficiencia cardíaca / Hipotensión,"Emb: C
+
+Lact: Precaución (B)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,No requiere ajuste,No requiere ajuste
+Dornasa alfa,Mucolítico (ADNasa),2.5 mg (1 ampolla),1 ó 2 veces al día,No especificado,Nebulización,Fibrosis Quística,"Emb: B
+
+Lact: Seguro (A)","Hígado: Seguro (A)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Seguro (A) | Hígado: Seguro (A)
+
+Riñón: Seguro (A)",Aceptado (B),Seguro (Compatible),No requiere ajuste,No requiere ajuste
+"Dorzolamida, clorhidrato",Antiglaucoma (Inh. AC),1 gota en ojo afectado,3 veces al día,No especificado,Oftálmica,Glaucoma / Hipertensión ocular,"Emb: C
+
+Lact: Evitar (D)","Hígado: Precaución (B)
+
+Riñón: Evitar (X)",yes,"Emb: C
+
+Lact: Evitar (D) | Hígado: Precaución (B)
+
+Riñón: Evitar (X)",Restringido (C),Precaución,,Evitar su uso
+"Doxapram, clorhidrato",Estimulante respiratorio,"Carga: 2.5 - 3 mg/kg
+
+Mant: 1 mg/kg/h",Infusión continua,2.5 mg/kg/h,IV,Apnea del prematuro / Depresión respiratoria,"Emb: B
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: B
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Aceptado (B),Precaución,,No requiere ajuste
+"Doxazosina, mesilato",Antihipertensivo (Alfa-bloqueante),1 - 16 mg/día,DUD (Dosis Única Diaria),16 mg/día,VO (Oral),Hipertensión arterial,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+"Doxepina, clorhidrato",Antidepresivo tricíclico,1 - 3 mg/kg/día,DUD (noche),No especificado,VO / Tópico,Depresión / Ansiedad / Prurito (tópico),"Emb: C
+
+Lact: Evitar (D)","Hígado: Precaución (C)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Evitar (D) | Hígado: Precaución (C)
+
+Riñón: Seguro (A)",Restringido (C),Contraindicado,,No requiere ajuste
+"Doxiciclina, hiclato",Antibiótico (Tetraciclina),2 - 4 mg/kg/día,c/12 h (Día 1) luego c/24h,200 mg/día,VO / IV,"Infecciones (Rickettsias, Lyme, Acné)","Emb: D (Riesgo)
+
+Lact: Evitar (D)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Evitar (D) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Riesgo (D),Precaución,,No requiere ajuste
+Doxorrubicina (Adriamicina),Antineoplásico (Antraciclina),35 - 75 mg/m²,c/21 días,Dosis acumulada: 450-550 mg/m²,IV,Leucemias / Linfomas / Tumores sólidos,"Emb: D (Riesgo)
+
+Lact: Evitar (D)","Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",yes,"Emb: D (Riesgo)
+
+Lact: Evitar (D) | Hígado: Reducir Dosis (D)
+
+Riñón: Seguro (A)",Riesgo (D),,,No requiere ajuste
+Doxiciclina / Ambroxol,Antibiótico / Mucolítico,Véase Doxiciclina,-,-,-,-,-,-,yes,- | -,,,,
+Drotrecogina alfa,Antitrombótico / Antiinflamatorio,24 µg/kg/h,Infusión x 96 horas,No especificado,IV,Sepsis severa con fallo multiorgánico,"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
+Droperidol,Neuroléptico / Antiemético,0.05 - 0.06 mg/kg/dosis,IM / IV en 2 a 5 min,2.5 mg (Dosis única),IM / IV,Náuseas y vómitos (Postquirúrgico),"Emb: C
+
+Lact: Precaución (B)","Hígado: Precaución (B)
+
+Riñón: Seguro (A)",yes,"Emb: C
+
+Lact: Precaución (B) | Hígado: Precaución (B)
+
+Riñón: Seguro (A)",Restringido (C),Precaución,,No requiere ajuste
