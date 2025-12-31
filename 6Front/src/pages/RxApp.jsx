@@ -41,7 +41,7 @@ const RxApp = () => {
     formData.append('image', selectedFile);
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/api/rx/analyze/', {
+      const response = await fetch('/api/rx/analyze/', {
         method: 'POST',
         body: formData, // No headers needed, browser detects multipart
       });

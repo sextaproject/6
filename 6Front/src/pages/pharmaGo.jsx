@@ -67,7 +67,7 @@ const PharmaGo = () => {
       setLoading(true);
 
       fetch(
-        `http://127.0.0.1:8000/api/pharmago/drugs/?audience=${audience}&search=${encodeURIComponent(searchText)}`,
+        `/api/pharmago/drugs/?audience=${audience}&search=${encodeURIComponent(searchText)}`,
         { signal: controller.signal }
       )
         .then(response => response.json())
