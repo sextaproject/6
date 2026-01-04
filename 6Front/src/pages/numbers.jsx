@@ -11,6 +11,7 @@ import WellsPE from '../components/wells';
 import PERC from '../components/perc';
 import TVPWells from '../components/tvp-wells';
 import Curb65 from '../components/curb65';
+import RenalCockcroft from '../components/CockcroftGault';
 import RenalCalculators from '../components/RenalCalculators';
 import Osmolarity from '../components/Osmolaridad';
 import HasBled from '../components/HasBled';
@@ -153,19 +154,20 @@ function Numbers(){
             <Tab label="Puntaje de Wells (TVP)" />
             <Tab label="CURB-65 (Neumonía)" />
             
-            {/* 8-9: Renal */}
-            <Tab label="Función Renal (TFG / Aclaramiento)" />
+            {/* 8-10: Renal */}
+            <Tab label="Aclaramiento de creatinina (Cockcroft-Gault)" />
+            <Tab label="Renal (CKD-EPI / MDRD)" />
             <Tab label="Osmolaridad" />
             
-            {/* 10-11: Cardiac Risk */}
+            {/* 11-12: Cardiac Risk */}
             <Tab label="HAS-BLED" />
             <Tab label="CHA₂DS₂-VASc" />
             
-            {/* 12-13: Sepsis */}
+            {/* 13-14: Sepsis */}
             <Tab label="Puntaje SOFA" />
             <Tab label="qSOFA" />
             
-            {/* 14-16: Metabolic & Lab */}
+            {/* 15-17: Metabolic & Lab */}
             <Tab label="Gradiente A-a" />
             <Tab label="Panel de Electrolitos" />
             <Tab label="Analizador de Gases Arteriales (ABG)" />
@@ -227,21 +229,22 @@ function Numbers(){
           {value === 7 && <Curb65 />}
           
           {/* Renal */}
-          {value === 8 && <RenalCalculators />}
-          {value === 9 && <Osmolarity />}
+          {value === 8 && <RenalCockcroft />}
+          {value === 9 && <RenalCalculators />}
+          {value === 10 && <Osmolarity />}
           
           {/* Cardiac Risk */}
-          {value === 10 && <HasBled />}
-          {value === 11 && <ChadsVasc />}
+          {value === 11 && <HasBled />}
+          {value === 12 && <ChadsVasc />}
           
           {/* Sepsis */}
-          {value === 12 && <SOFA />}
-          {value === 13 && <QSOFA />}
+          {value === 13 && <SOFA />}
+          {value === 14 && <QSOFA />}
           
           {/* Metabolic & Lab */}
-          {value === 14 && <AaGradient />}
-          {value === 15 && <Electro />}
-          {value === 16 && <AcidBase />}
+          {value === 15 && <AaGradient />}
+          {value === 16 && <Electro />}
+          {value === 17 && <AcidBase />}
         </Box>
 
       </Box>

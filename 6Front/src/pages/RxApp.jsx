@@ -4,8 +4,7 @@ import {
   Card, CardContent, Chip, LinearProgress, Alert, IconButton 
 } from '@mui/material';
 import CloudUploadIcon from '@mui/icons-material/CloudUpload';
-import SensorsIcon from '@mui/icons-material/Sensors'; // AI Icon
-import AutoFixHighIcon from '@mui/icons-material/AutoFixHigh';
+import SensorsIcon from '@mui/icons-material/Sensors';
 import DeleteIcon from '@mui/icons-material/Delete';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
@@ -18,48 +17,36 @@ const RxApp = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
-  // 1. HANDLE IMAGE SELECTION
-  const handleFileSelect = (event) => {
+  // 1. HANDLE IMAGE SELECTION & AUTO-ANALYZE
+  const handleFileSelect = async (event) => {
     const file = event.target.files[0];
     if (file) {
       setSelectedFile(file);
-      setPreview(URL.createObjectURL(file)); // Create local preview URL
-      setResult(null); // Reset previous results
+      setPreview(URL.createObjectURL(file));
+      setResult(null);
       setError('');
-    }
-  };
+      setLoading(true);
 
-  // 2. SEND TO DJANGO
-  const handleAnalyze = async () => {
-    if (!selectedFile) return;
+      // Auto-run analysis immediately
+      const formData = new FormData();
+      formData.append('image', file);
 
-    setLoading(true);
-    setError('');
+      try {
+        const response = await fetch('/api/rx/analyze/', {
+          method: 'POST',
+          body: formData,
+        });
 
-    // Prepare the form data (Must use FormData for files)
-    const formData = new FormData();
-    formData.append('image', selectedFile);
+        if (!response.ok) throw new Error('Error analyzing image');
 
-    try {
-      const response = await fetch('/api/rx/analyze/', {
-        method: 'POST',
-        body: formData, // No headers needed, browser detects multipart
-      });
-
-      if (!response.ok) throw new Error('Error analyzing image');
-
-      const data = await response.json();
-      
-      // Simulate a small delay for dramatic effect if response is too fast
-      setTimeout(() => {
+        const data = await response.json();
         setResult(data);
+      } catch (err) {
+        console.error(err);
+        setError('Error de conexión. ¿Está el servidor activo?');
+      } finally {
         setLoading(false);
-      }, 800);
-
-    } catch (err) {
-      console.error(err);
-      setError('Connection failed. Is Django running?');
-      setLoading(false);
+      }
     }
   };
 
@@ -74,8 +61,8 @@ const RxApp = () => {
     <Box sx={{ minHeight: '100vh', bgcolor: '#eceff1', pb: 8 }}>
       
       {/* HEADER */}
-      <Paper elevation={0} sx={{ pt: 6, pb: 8, bgcolor: '#263238', color: 'white', borderRadius: '0 0 3rem 3rem' }}>
-        <Container maxWidth="md" sx={{ textAlign: 'center' }}>
+      <Paper elevation={0} sx={{ pt: '8px', pb: 8, bgcolor: '#263238', color: 'white', borderRadius: '0 0 3rem 3rem' }}>
+        <Container maxWidth="md" sx={{ textAlign: 'center', paddingTop: '25px'}}>
             <Box sx={{ display: 'flex', justifyContent: 'flex-start', mb: 2 }}>
                 <Button
                   component={Link}
@@ -88,10 +75,10 @@ const RxApp = () => {
                   Volver al menú
                 </Button>
             </Box>
-            <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: 2, mb: 1 }}>
+            <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: 2, mb: 1,}}>
                 <SensorsIcon sx={{ fontSize: 40, color: '#4fc3f7' }} />
                 <Typography variant="h3" sx={{ fontFamily: 'Orbitron', fontWeight: 700 }}>
-                    AI RADIOLOGIST
+                    RAIDIO
                 </Typography>
             </Box>
             <Typography variant="subtitle1" sx={{ opacity: 0.7, letterSpacing: 1 }}>
@@ -107,6 +94,8 @@ const RxApp = () => {
                 {/* UPLOAD ZONE */}
                 {!preview ? (
                     <Box 
+                        component="label"
+                        htmlFor="upload-button"
                         sx={{ 
                             border: '3px dashed #cfd8dc', 
                             borderRadius: 4, 
@@ -114,6 +103,8 @@ const RxApp = () => {
                             textAlign: 'center',
                             bgcolor: '#fafafa',
                             transition: '0.3s',
+                            cursor: 'pointer',
+                            display: 'block',
                             '&:hover': { bgcolor: '#f1f8e9', borderColor: '#4caf50' }
                         }}
                     >
@@ -124,17 +115,12 @@ const RxApp = () => {
                             type="file"
                             onChange={handleFileSelect}
                         />
-                        <label htmlFor="upload-button">
-                            <IconButton color="primary" component="span" sx={{ p: 2, bgcolor: '#e3f2fd', mb: 2 }}>
-                                <CloudUploadIcon sx={{ fontSize: 40 }} />
-                            </IconButton>
-                            <Typography variant="h6" color="text.secondary">
-                                Arrastra tu Radiografía o haz Click
-                            </Typography>
-                            <Button variant="contained" component="span" sx={{ mt: 2, px: 4, borderRadius: 20 }}>
-                                Seleccionar Archivo
-                            </Button>
-                        </label>
+                        <IconButton color="primary" component="span" sx={{ p: 2, bgcolor: '#e3f2fd', mb: 2 }}>
+                            <CloudUploadIcon sx={{ fontSize: 40 }} />
+                        </IconButton>
+                        <Typography variant="h6" color="text.secondary">
+                            Arrastra tu Radiografía o haz Click
+                        </Typography>
                     </Box>
                 ) : (
                     // PREVIEW ZONE
@@ -142,36 +128,32 @@ const RxApp = () => {
                         <img 
                             src={preview} 
                             alt="X-Ray" 
-                            style={{ maxWidth: '100%', maxHeight: '500px', objectFit: 'contain' }} 
+                            style={{ maxWidth: '100%', maxHeight: '500px', objectFit: 'contain', opacity: loading ? 0.5 : 1, transition: '0.3s' }} 
                         />
+                        {loading && (
+                            <Box sx={{ 
+                                position: 'absolute', 
+                                top: '50%', 
+                                left: '50%', 
+                                transform: 'translate(-50%, -50%)',
+                                display: 'flex',
+                                flexDirection: 'column',
+                                alignItems: 'center',
+                                gap: 2
+                            }}>
+                                <CircularProgress size={60} sx={{ color: '#4fc3f7' }} />
+                                <Typography variant="h6" sx={{ color: 'white', fontFamily: 'Orbitron' }}>
+                                    ANALIZANDO...
+                                </Typography>
+                            </Box>
+                        )}
                         <IconButton 
                             onClick={handleClear}
+                            disabled={loading}
                             sx={{ position: 'absolute', top: 10, right: 10, bgcolor: 'rgba(0,0,0,0.5)', color: 'white', '&:hover': { bgcolor: 'red' } }}
                         >
                             <DeleteIcon />
                         </IconButton>
-                    </Box>
-                )}
-
-                {/* ACTION BUTTONS */}
-                {preview && !result && (
-                    <Box sx={{ mt: 3, textAlign: 'center' }}>
-                        <Button 
-                            variant="contained" 
-                            size="large" 
-                            onClick={handleAnalyze}
-                            disabled={loading}
-                            startIcon={loading ? <CircularProgress size={20} color="inherit" /> : <AutoFixHighIcon />}
-                            sx={{ 
-                                bgcolor: '#263238', 
-                                px: 6, py: 1.5, 
-                                borderRadius: 20, 
-                                fontSize: '1.1rem',
-                                '&:hover': { bgcolor: 'black' }
-                            }}
-                        >
-                            {loading ? "ANALIZANDO..." : "EJECUTAR DIAGNÓSTICO AI"}
-                        </Button>
                     </Box>
                 )}
 
