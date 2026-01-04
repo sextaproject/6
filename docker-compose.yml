@@ -18,7 +18,7 @@ services:
   backend:
     build: ./6Back
     container_name: sexta_backend
-    command: python manage.py runserver 0.0.0.0:8000 
+    # command: python manage.py runserver 0.0.0.0:8000 
     volumes:
       - ./6Back:/app 
     ports:
