@@ -6,9 +6,9 @@ const Curb65 = () => {
     const items = [
       { id: 'C', title: 'Confusion', subtitle: 'Desorientación nueva en tiempo, lugar o persona', points: 1 },
       { id: 'U', title: 'Urea (BUN)', subtitle: '> 19 mg/dL (> 7 mmol/L)', points: 1 },
-      { id: 'R', title: 'Respiratory Rate', subtitle: '≥ 30 rpm', points: 1 },
-      { id: 'B', title: 'Blood Pressure', subtitle: 'TAS < 90 mmHg o TAD ≤ 60 mmHg', points: 1 },
-      { id: '65', title: 'Age ≥ 65', subtitle: 'Edad 65 años o más', points: 1 },
+      { id: 'R', title: 'Frecuencia Respiratoria', subtitle: '≥ 30 rpm', points: 1 },
+      { id: 'B', title: 'Presión Arterial', subtitle: 'TAS < 90 mmHg o TAD ≤ 60 mmHg', points: 1 },
+      { id: '65', title: 'Edad ≥ 65', subtitle: 'Edad 65 años o más', points: 1 },
     ];
 
     const [scores, setScores] = useState({ C: 0, U: 0, R: 0, B: 0, '65': 0 });
@@ -22,17 +22,17 @@ const Curb65 = () => {
     const getResult = (score) => {
         if (score <= 1) return { 
             text: 'Riesgo Bajo', 
-            desc: 'Mortalidad < 3%. Considerar tratamiento ambulatorio.', 
+            desc: 'Mortalidad < 3%. Considerar tratamiento ambulatorio', 
             color: 'success' 
         };
         if (score === 2) return { 
             text: 'Riesgo Moderado', 
-            desc: 'Mortalidad ~9%. Considerar hospitalización corta o supervisada.', 
+            desc: 'Mortalidad ~9%. Considerar hospitalización corta o manejo ambulatorio supervisado.', 
             color: 'warning' 
         };
         return { 
             text: 'Riesgo Alto', 
-            desc: 'Mortalidad 15-40%. Ingreso hospitalario. Considerar UCI si Score ≥ 4.', 
+            desc: 'Mortalidad 15-40%. Hsopitalizar. Considerar UCI si Score ≥ 4.', 
             color: 'error' 
         };
     };
@@ -48,7 +48,7 @@ const Curb65 = () => {
                         <Typography variant="h5" color="primary" sx={{ fontFamily: 'Orbitron' }}>
                             CURB-65
                         </Typography>
-                        <Typography variant="caption">Pneumonia Severity</Typography>
+                        <Typography variant="caption">Mortalidad en neumonía</Typography>
                     </Box>
                 </Box>
                 <Chip label={`Score: ${totalScore}`} color={result.color} sx={{ fontSize: '1.2rem', fontWeight: 'bold' }} />

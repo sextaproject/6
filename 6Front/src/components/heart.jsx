@@ -6,7 +6,7 @@ const HEART = () => {
     const heartItems = [
       {
         id: 'history',
-        title: 'Historia (History)',
+        title: 'Historia',
         description: 'Sospecha clínica basada en la historia del dolor torácico',
         options: [
           { label: 'Levemente sospechosa', value: 0 },
@@ -36,7 +36,7 @@ const HEART = () => {
       },
       {
         id: 'risk',
-        title: 'Factores de Riesgo (Risk Factors)',
+        title: 'Factores de Riesgo',
         description: 'HTA, Diabetes, Colesterol alto, Tabaquismo, Obesidad, Historia familiar',
         options: [
           { label: 'Sin factores de riesgo conocidos', value: 0 },
@@ -46,7 +46,7 @@ const HEART = () => {
       },
       {
         id: 'troponin',
-        title: 'Troponina (Troponin)',
+        title: 'Troponina',
         description: 'Niveles iniciales de troponina',
         options: [
           { label: '≤ Límite normal', value: 0 },

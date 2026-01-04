@@ -78,7 +78,7 @@ const Electro = () => {
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 2, mb: 4, justifyContent: 'center' }}>
                 <BoltIcon color="primary" sx={{ fontSize: 40 }} />
                 <Typography variant="h4" color="primary" sx={{ fontFamily: 'Orbitron' }}>
-                    ELECTROLYTE CORRECTIONS
+                    ELECTROLITOS
                 </Typography>
             </Box>
 
@@ -86,11 +86,11 @@ const Electro = () => {
                 <Grid item xs={12} md={6}>
                     <Paper elevation={3} sx={{ p: 3, borderRadius: 3, height: '100%' }}>
                         <Typography variant="h6" color="primary" sx={{ mb: 2, fontWeight: 'bold' }}>
-                            1. Calcium (Albumin)
+                            1. Calcio (Albumina)
                         </Typography>
                         <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                             <TextField
-                                label="Total Calcium"
+                                label="Calcio Total"
                                 type="number"
                                 size="small"
                                 value={ca}
@@ -98,14 +98,14 @@ const Electro = () => {
                                 slotProps={{ input: { endAdornment: <InputAdornment position="end">mg/dL</InputAdornment> } }}
                             />
                             <TextField
-                                label="Albumin"
+                                label="Albumina"
                                 type="number"
                                 size="small"
                                 value={alb}
                                 onChange={(e) => setAlb(e.target.value)}
                                 slotProps={{ input: { endAdornment: <InputAdornment position="end">g/dL</InputAdornment> } }}
                             />
-                            {corrCa && <ResultBox label="Corrected Calcium" value={corrCa} unit="mg/dL" desc="Use if Albumin < 4.0" />}
+                            {corrCa && <ResultBox label="Calcio Corregido" value={corrCa} unit="mg/dL" desc="Si Albumina < 4.0" />}
                         </Box>
                     </Paper>
                 </Grid>
@@ -113,11 +113,11 @@ const Electro = () => {
                 <Grid item xs={12} md={6}>
                     <Paper elevation={3} sx={{ p: 3, borderRadius: 3, height: '100%' }}>
                         <Typography variant="h6" color="primary" sx={{ mb: 2, fontWeight: 'bold' }}>
-                            2. Sodium (Glucose)
+                            2. Sodio (Glucosa)
                         </Typography>
                         <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                             <TextField
-                                label="Sodium (Na)"
+                                label="Sodio (Na)"
                                 type="number"
                                 size="small"
                                 value={na}
@@ -125,14 +125,14 @@ const Electro = () => {
                                 slotProps={{ input: { endAdornment: <InputAdornment position="end">mEq/L</InputAdornment> } }}
                             />
                             <TextField
-                                label="Glucose"
+                                label="Glucosa"
                                 type="number"
                                 size="small"
                                 value={gluc}
                                 onChange={(e) => setGluc(e.target.value)}
                                 slotProps={{ input: { endAdornment: <InputAdornment position="end">mg/dL</InputAdornment> } }}
                             />
-                            {corrNa && <ResultBox label="Corrected Sodium" value={corrNa} unit="mEq/L" desc="Correction factor: 1.6 per 100mg glucose" />}
+                            {corrNa && <ResultBox label="Sodio Corregido" value={corrNa} unit="mEq/L" desc="Factor de Corrección: 1.6 por 100mg glucosa" />}
                         </Box>
                     </Paper>
                 </Grid>
@@ -140,11 +140,11 @@ const Electro = () => {
                 <Grid item xs={12} md={6}>
                     <Paper elevation={3} sx={{ p: 3, borderRadius: 3, height: '100%' }}>
                         <Typography variant="h6" color="primary" sx={{ mb: 2, fontWeight: 'bold' }}>
-                            3. Chloride (Sodium)
+                            3. Cloro (Sodio)
                         </Typography>
                         <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                             <TextField
-                                label="Chloride (Cl)"
+                                label="Cloro (Cl)"
                                 type="number"
                                 size="small"
                                 value={cl}
@@ -152,12 +152,12 @@ const Electro = () => {
                                 slotProps={{ input: { endAdornment: <InputAdornment position="end">mEq/L</InputAdornment> } }}
                             />
                              <TextField
-                                label="Sodium (Na)"
+                                label="Sodio (Na)"
                                 type="number"
                                 size="small"
                                 value={na}
                                 onChange={(e) => setNa(e.target.value)}
-                                helperText={na ? "" : "Required for calculation"}
+                                helperText={na ? "" : "Ingresa los valores"}
                                 slotProps={{ input: { endAdornment: <InputAdornment position="end">mEq/L</InputAdornment> } }}
                             />
                             {corrCl && <ResultBox label="Corrected Chloride" value={corrCl} unit="mEq/L" desc="Normalized to Na 140" />}
@@ -168,11 +168,11 @@ const Electro = () => {
                 <Grid item xs={12} md={6}>
                     <Paper elevation={3} sx={{ p: 3, borderRadius: 3, height: '100%' }}>
                         <Typography variant="h6" color="primary" sx={{ mb: 2, fontWeight: 'bold' }}>
-                            4. Potassium (pH)
+                            4. Potasio (pH)
                         </Typography>
                         <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                             <TextField
-                                label="Potassium (K)"
+                                label="Potasio (K)"
                                 type="number"
                                 size="small"
                                 value={k}
@@ -185,9 +185,9 @@ const Electro = () => {
                                 size="small"
                                 value={ph}
                                 onChange={(e) => setPh(e.target.value)}
-                                slotProps={{ input: { htmlInput: { step: 0.01 } } }}
+                                slotProps={{ input: { endAdornment: <InputAdornment position="end">mmHg</InputAdornment> } }}
                             />
-                            {corrK && <ResultBox label="Est. K at pH 7.4" value={corrK} unit="mEq/L" desc="Estimation: Δ0.6 K per Δ0.1 pH" />}
+                            {corrK && <ResultBox label="Estimado K con pH 7.4" value={corrK} unit="mEq/L" desc="estimación: Δ0.6 K por Δ0.1 pH" />}
                         </Box>
                     </Paper>
                 </Grid>

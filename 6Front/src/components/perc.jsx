@@ -21,7 +21,7 @@ const PERC = () => {
       },
       {
         id: 'swelling',
-        title: 'Hinchazón unilateral de pierna',
+        title: 'Edema unilateral de pierna',
         subtitle: 'Sospecha visual o palpable de TVP',
       },
       {
@@ -59,13 +59,13 @@ const PERC = () => {
 
     const getResult = (score) => {
         if (score === 0) return { 
-            text: 'PE RULED OUT (< 2%)', 
-            desc: 'No se requiere D-Dimer ni imagenología si la gestalt inicial era baja.', 
+            text: 'TEP no probable (< 2%)', 
+            desc: 'No se requiere Dimero-D ni imagenología.', 
             color: 'success' 
         };
         return { 
-            text: 'REGLA NO CUMPLIDA', 
-            desc: 'No se puede descartar TEP solo con clínica. Considere D-Dimer o Wells.', 
+            text: 'TEP Probable', 
+            desc: 'No se puede descartar TEP. Considere D-Dimer + Wells.', 
             color: 'error' 
         };
     };
@@ -80,10 +80,10 @@ const PERC = () => {
                     <HealthAndSafetyIcon color="primary" fontSize="large" />
                     <Box>
                         <Typography variant="h5" color="primary" sx={{ fontFamily: 'Orbitron' }}>
-                            PERC RULE
+                            PERC
                         </Typography>
                         <Typography variant="caption" color="text.secondary">
-                           Pulmonary Embolism Rule-out Criteria
+                           Criterios para Embolismo Pulmonar
                         </Typography>
                     </Box>
                 </Box>
@@ -97,7 +97,7 @@ const PERC = () => {
 
             <Box sx={{ mb: 3, p: 2, bgcolor: '#fff3e0', borderRadius: 2, borderLeft: '4px solid #ff9800' }}>
                 <Typography variant="body2" color="warning.dark">
-                    <strong>Nota:</strong> Use solo si la sospecha clínica (Gestalt) es <strong>BAJA</strong>.
+                    <strong>Nota:</strong> Use solo si la sospecha clínica es <strong>BAJA</strong>.
                 </Typography>
             </Box>
 
@@ -126,9 +126,7 @@ const PERC = () => {
                 </Box>
             ))}
 
-            <Box sx={{ bgcolor: 'background.default', p: 3, borderRadius: 2, textAlign: 'center', border: '1px solid', borderColor: 'divider' }}>
-                <Typography variant="h6">Interpretación</Typography>
-                
+            <Box sx={{ bgcolor: 'background.default', p: 3, borderRadius: 2, textAlign: 'center', border: '1px solid', borderColor: 'divider' }}>                
                 <Typography variant="h4" color={result.color + '.main'} sx={{ fontWeight: 'bold', mt: 1 }}>
                     {result.text}
                 </Typography>

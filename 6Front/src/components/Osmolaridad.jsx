@@ -27,16 +27,16 @@ const Osmolarity = () => {
         <OpacityIcon color="primary" fontSize="large" />
         <Box>
             <Typography variant="h5" color="primary" sx={{ fontFamily: 'Orbitron' }}>
-            OSMOLARITY
+            OSMOLARIDAD
             </Typography>
-            <Typography variant="caption">Serum Osmolality Calc</Typography>
+            <Typography variant="caption">Osmolaridad Sérica</Typography>
         </Box>
       </Box>
 
       <Box sx={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
         
         <TextField
-          label="Sodium (Na)"
+          label="Sodio (Na)"
           type="number"
           value={na}
           onChange={(e) => setNa(e.target.value)}
@@ -47,7 +47,7 @@ const Osmolarity = () => {
         />
 
         <TextField
-          label="Glucose"
+          label="Glucosa"
           type="number"
           value={glucose}
           onChange={(e) => setGlucose(e.target.value)}
@@ -58,7 +58,7 @@ const Osmolarity = () => {
         />
 
         <TextField
-          label="BUN (Blood Urea Nitrogen)"
+          label="BUN (Nitrogeno Ureico)"
           type="number"
           value={bun}
           onChange={(e) => setBun(e.target.value)}
@@ -76,13 +76,13 @@ const Osmolarity = () => {
               textAlign: 'center',
               border: '1px solid', borderColor: 'divider'
             }}>
-            <Typography variant="overline" color="text.secondary">CALCULATED OSMOLARITY</Typography>
+            <Typography variant="overline" color="text.secondary">OSMOLARIDAD CALCULADA</Typography>
             <Typography variant="h3" color="primary" fontWeight="bold">
               {osmo}
             </Typography>
             <Typography variant="subtitle2" color="text.secondary">mOsm/kg H2O</Typography>
             <Typography variant="caption" sx={{ display: 'block', mt: 1 }}>
-               Normal Range: 275 - 295 mOsm/kg
+               Rango Normal: 275 - 295 mOsm/kg
             </Typography>
           </Box>
         )}

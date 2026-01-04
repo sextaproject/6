@@ -34,51 +34,51 @@ const AcidBase = () => {
             let comp = '';
 
             if (p >= 7.35 && p <= 7.45) {
-                if (c > 45 && b > 26) diag = 'Fully Compensated Respiratory Acidosis or Metabolic Alkalosis';
-                else if (c < 35 && b < 22) diag = 'Fully Compensated Respiratory Alkalosis or Metabolic Acidosis';
-                else diag = 'Normal Acid-Base Status';
+                if (c > 45 && b > 26) diag = 'Acidosis Respiratoria Compensada + Alcalosis Metabolica';
+                else if (c < 35 && b < 22) diag = 'Alcalosis Respiratoria Compensada + Acidosis Metabolica';
+                else diag = 'Normal Statado Acido Base';
             } else if (isAcidotic) {
                 if (c > 45 && b < 22) {
                     diag = 'Mixed Respiratory & Metabolic Acidosis (Critical!)';
                 } else if (c > 45) {
-                    diag = 'Respiratory Acidosis';
+                    diag = 'Acidosis Respiratoria';
                     const co2Change = c - 40;
                     const expectedBicarbAcute = 24 + (co2Change / 10 * 1);
                     const expectedBicarbChronic = 24 + (co2Change / 10 * 3.5);
                     
-                    if (Math.abs(b - expectedBicarbAcute) < 2) comp = 'Acute Phase';
-                    else if (Math.abs(b - expectedBicarbChronic) < 2) comp = 'Chronic Phase';
-                    else comp = 'Partially Compensated';
+                    if (Math.abs(b - expectedBicarbAcute) < 2) comp = 'Fase Aguda';
+                    else if (Math.abs(b - expectedBicarbChronic) < 2) comp = 'Fase Crónica';
+                    else comp = 'Parcialmente Conpensada';
 
                 } else if (b < 22) {
-                    diag = 'Metabolic Acidosis';
+                    diag = 'Acidosis Metabolica';
                     const expectedCo2 = (1.5 * b) + 8;
-                    if (c < expectedCo2 - 2) comp = 'with Concomitant Respiratory Alkalosis';
-                    else if (c > expectedCo2 + 2) comp = 'with Concomitant Respiratory Acidosis';
-                    else comp = 'Respiratory Compensation Adequate (Winter\'s Formula Met)';
+                    if (c < expectedCo2 - 2) comp = 'Alcalosis Respiratoria Concomitante';
+                    else if (c > expectedCo2 + 2) comp = 'Acidosis Respiratoria Concomitante';
+                    else comp = 'Compensación Respiratoria Adecuada (Winter\'s)';
                 } else {
-                    diag = 'Unclassified Acidosis (Check Data)';
+                    diag = 'Estado de Acidosis';
                 }
             } else {
                 if (c < 35 && b > 26) {
-                    diag = 'Mixed Respiratory & Metabolic Alkalosis';
+                    diag = 'Trastorno Mixto de Alcalosis Respiratoria y Metabolica';
                 } else if (c < 35) {
-                    diag = 'Respiratory Alkalosis';
+                    diag = 'Alcalosis Respiratoria';
                     const co2Change = 40 - c;
                     const expBicarbAcute = 24 - (co2Change / 10 * 2);
                     const expBicarbChronic = 24 - (co2Change / 10 * 4);
                      
-                    if (Math.abs(b - expBicarbAcute) < 2) comp = 'Acute Phase';
-                    else if (Math.abs(b - expBicarbChronic) < 2) comp = 'Chronic Phase';
-                    else comp = 'Partially Compensated';
+                    if (Math.abs(b - expBicarbAcute) < 2) comp = 'Fase Aguda';
+                    else if (Math.abs(b - expBicarbChronic) < 2) comp = 'Fase Crónica';
+                    else comp = 'Parcialmente Conpensada';
 
                 } else if (b > 26) {
-                    diag = 'Metabolic Alkalosis';
+                    diag = 'Alcalosis Metabolica';
                     const rise = b - 24;
                     const expCo2 = (0.7 * rise) + 40;
-                    if (c < expCo2 - 5) comp = 'with Concomitant Respiratory Alkalosis';
-                    else if (c > expCo2 + 5) comp = 'with Concomitant Respiratory Acidosis';
-                    else comp = 'Respiratory Compensation Adequate';
+                    if (c < expCo2 - 5) comp = 'Alcalosis Respiratoria Concomitante';
+                    else if (c > expCo2 + 5) comp = 'Acidosis Respiratoria Concomitante';
+                    else comp = 'Compensación Respiratoria Adecuada';
                 }
             }
             
@@ -88,8 +88,8 @@ const AcidBase = () => {
             if (n > 0 && chloride > 0) {
                 const ag = n - (chloride + b);
                 let agText = `${ag.toFixed(1)} mEq/L`;
-                if (ag > 12) agText += ' (High Anion Gap)';
-                else agText += ' (Normal Anion Gap)';
+                if (ag > 12) agText += ' (Anion Gap Elevado)';
+                else agText += ' (Anion Gap Normal)';
                 setAnionGap(agText);
             } else {
                 setAnionGap(null);
@@ -99,12 +99,12 @@ const AcidBase = () => {
                 const pf = o2 / (fi / 100);
                 let oxStatus = `P/F Ratio: ${Math.round(pf)}`;
                 
-                if (pf < 200) oxStatus += ' (Moderate ARDS criteria)';
-                else if (pf < 300) oxStatus += ' (Mild ARDS / ALI)';
-                else if (pf > 400) oxStatus += ' (Normal Gas Exchange)';
+                if (pf < 200) oxStatus += ' (Trastorno de la Oxigenación Moderado)';
+                else if (pf < 300) oxStatus += ' (Trastorno de la Oxigenación Moderado)';
+                else if (pf > 400) oxStatus += ' (Adecuado estado de oxigención)';
                 
-                if (o2 < 60) oxStatus += ' | SEVERE HYPOXEMIA';
-                else if (o2 < 80) oxStatus += ' | Mild Hypoxemia';
+                if (o2 < 60) oxStatus += ' | HIPOXEMIA SEVERA';
+                else if (o2 < 80) oxStatus += ' | HIPOXEMIA MODERADA';
                 
                 setOxygenation(oxStatus);
             } else {
@@ -133,22 +133,22 @@ const AcidBase = () => {
                 <ScienceIcon color="primary" sx={{ fontSize: 40 }} />
                 <Box>
                     <Typography variant="h5" color="primary" sx={{ fontFamily: 'Orbitron' }}>
-                        ABG ANALYZER
+                        CALCULADORA PH
                     </Typography>
-                    <Typography variant="caption">Arterial Blood Gas Interpretation</Typography>
+                    <Typography variant="caption">Interpretación de Gases Arteriales</Typography>
                 </Box>
             </Box>
 
             {!consistency && (
                  <Alert severity="warning" sx={{ mb: 3 }}>
-                    <strong>Consistency Check:</strong> The entered pH values do not physiologically match the pCO2 and HCO3. Please check your inputs.
+                    <strong>Revisa los Valores:</strong> Los valores de pH introducidos no coinciden fisiológicamente con los de pCO2 y HCO3. Por favor, revisa los datos.
                  </Alert>
             )}
 
             <Grid container spacing={3}>
                 <Grid item xs={12} md={6}>
                     <Typography variant="subtitle2" sx={{ mb: 2, color: 'text.secondary', fontWeight: 'bold' }}>
-                        BLOOD GAS VALUES
+                        VALORES 
                     </Typography>
                     <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                         <TextField
@@ -188,11 +188,11 @@ const AcidBase = () => {
 
                 <Grid item xs={12} md={6}>
                     <Typography variant="subtitle2" sx={{ mb: 2, color: 'text.secondary', fontWeight: 'bold' }}>
-                        OPTIONAL (ELECTROLYTES / FiO2)
+                        (ELECTROLITOS / FiO2)
                     </Typography>
                     <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                         <TextField
-                            label="Na+ (Sodium)"
+                            label="Na+ (Sodio)"
                             type="number"
                             size="small"
                             value={na}
@@ -200,7 +200,7 @@ const AcidBase = () => {
                             onChange={(e) => setNa(e.target.value)}
                         />
                         <TextField
-                            label="Cl- (Chloride)"
+                            label="Cl- (Cloro)"
                             type="number"
                             size="small"
                             value={cl}
@@ -212,7 +212,7 @@ const AcidBase = () => {
                             type="number"
                             size="small"
                             value={fio2}
-                            helperText="Room Air = 21%"
+                            helperText="Ambiente = 21%"
                             onChange={(e) => setFio2(e.target.value)}
                             slotProps={{ input: { endAdornment: <InputAdornment position="end">%</InputAdornment> } }}
                         />
@@ -224,7 +224,7 @@ const AcidBase = () => {
 
             {diagnosis ? (
                 <Box sx={{ textAlign: 'center' }}>
-                    <Typography variant="overline" color="text.secondary">PRIMARY DIAGNOSIS</Typography>
+                    <Typography variant="overline" color="text.secondary">DIAGNÓSTICO PRIMARIO</Typography>
                     <Typography variant="h4" color="primary" fontWeight="bold" sx={{ mb: 1, fontFamily: 'Orbitron' }}>
                         {diagnosis}
                     </Typography>
@@ -249,7 +249,7 @@ const AcidBase = () => {
 
                         {oxygenation && (
                             <Box sx={{ p: 2, bgcolor: '#e0f2f1', borderRadius: 2, minWidth: 150 }}>
-                                <Typography variant="caption" fontWeight="bold">OXYGENATION</Typography>
+                                <Typography variant="caption" fontWeight="bold">OXIGENACIÓN</Typography>
                                 <Typography variant="h6" color="teal">{oxygenation}</Typography>
                             </Box>
                         )}
@@ -258,7 +258,7 @@ const AcidBase = () => {
                 </Box>
             ) : (
                 <Box sx={{ textAlign: 'center', py: 4, opacity: 0.5 }}>
-                    <Typography variant="h6">Enter pH, PaCO2, and HCO3 to interpret.</Typography>
+                    <Typography variant="h6">Ingresa los valores para continuar</Typography>
                 </Box>
             )}
 

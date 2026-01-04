@@ -19,11 +19,11 @@ const AnionGap = () => {
       setGap(value.toFixed(1));
 
       if (value < 4) {
-        setStatus('Low Anion Gap'); 
+        setStatus('Anion Gap Disminuido'); 
       } else if (value <= 12) {
-        setStatus('Normal Anion Gap');
+        setStatus('Anion Gap Normal');
       } else {
-        setStatus('High Anion Gap (Metabolic Acidosis)');
+        setStatus('Anion Gap Elevado');
       }
     } else {
       setGap(null);

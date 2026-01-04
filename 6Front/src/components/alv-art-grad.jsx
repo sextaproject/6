@@ -35,9 +35,9 @@ const AaGradient = () => {
         setExpected(exp.toFixed(1));
 
         if (grad > exp) {
-            setStatus('High Gradient (V/Q Mismatch, Shunt, Diffusion)');
+            setStatus('Elevado (V(entilación)/Q (Perfusión), Shunt, Alteración Difusión)');
         } else {
-            setStatus('Normal Gradient (Hypoventilation, Low FiO2)');
+            setStatus('Gradiente Normal (Hipoventilación, FiO2 baja)');
         }
       } else {
         setExpected(null);
@@ -52,7 +52,7 @@ const AaGradient = () => {
   }, [paO2, paCO2, fiO2, patm, age]);
 
   const getColor = () => {
-    if (status.includes('High')) return 'error';
+    if (status.includes('Elevado')) return 'error';
     if (status.includes('Normal')) return 'success';
     return 'default';
   };
@@ -64,9 +64,9 @@ const AaGradient = () => {
         <AirIcon color="primary" fontSize="large" />
         <Box>
             <Typography variant="h5" color="primary" sx={{ fontFamily: 'Orbitron' }}>
-            A-a GRADIENT
+            Gradiente Alveolo Arterial
             </Typography>
-            <Typography variant="caption">Alveolar-arterial Gradient</Typography>
+            <Typography variant="caption">Diagnóstico Diferencial en Hipoxemia</Typography>
         </Box>
       </Box>
 
@@ -103,7 +103,7 @@ const AaGradient = () => {
                 type="number"
                 fullWidth
                 value={fiO2}
-                helperText="Room Air = 21%"
+                helperText=" Ambiente = 21%"
                 onChange={(e) => setFiO2(e.target.value)}
                 slotProps={{
                     input: { endAdornment: <InputAdornment position="end">%</InputAdornment> },
@@ -115,7 +115,7 @@ const AaGradient = () => {
                 type="number"
                 fullWidth
                 value={patm}
-                helperText="Sea Level = 760"
+                helperText="A nivel del Mar = 760"
                 onChange={(e) => setPatm(e.target.value)}
                 slotProps={{
                     input: { endAdornment: <InputAdornment position="end">mmHg</InputAdornment> },
@@ -125,10 +125,10 @@ const AaGradient = () => {
         </Box>
 
         <TextField
-            label="Patient Age"
+            label="Edad"
             type="number"
             value={age}
-            helperText="Required for 'Expected' value"
+            helperText="Ingresa la edad del paciente"
             onChange={(e) => setAge(e.target.value)}
             slotProps={{ htmlInput: { min: 0 } }}
         />
@@ -145,7 +145,7 @@ const AaGradient = () => {
               borderColor: 'divider',
               boxShadow: 2
             }}>
-            <Typography variant="overline" color="text.secondary">CALCULATED GRADIENT</Typography>
+            <Typography variant="overline" color="text.secondary">GRADIENTE</Typography>
             <Typography variant="h3" fontWeight="bold" color="primary">
               {gradient}
             </Typography>
@@ -154,7 +154,7 @@ const AaGradient = () => {
             {expected && (
                 <Box sx={{ mt: 2 }}>
                     <Typography variant="body2">
-                        Expected for Age: <strong>{expected} mmHg</strong>
+                        Esperado para edad: <strong>{expected} mmHg</strong>
                     </Typography>
                     <Chip 
                         label={status} 

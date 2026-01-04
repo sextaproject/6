@@ -2,9 +2,6 @@ import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { Box, Container, Tabs, Tab, Typography, Paper, useTheme, useMediaQuery, Button } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { Link } from 'react-router-dom';
-import CalculateIcon from '@mui/icons-material/Calculate';
-import FavoriteIcon from '@mui/icons-material/Favorite'; 
-import MonitorWeightIcon from '@mui/icons-material/MonitorWeight'; 
 
 import BMI from '../components/bmi';
 import NIHSS from '../components/nihss';
@@ -14,15 +11,12 @@ import WellsPE from '../components/wells';
 import PERC from '../components/perc';
 import TVPWells from '../components/tvp-wells';
 import Curb65 from '../components/curb65';
-import RenalCockcroft from '../components/CockcroftGault';
-import RenalCKDEPI from '../components/CkdEpiCalculator';
-import RenalMDRD from '../components/Mdrd';
+import RenalCalculators from '../components/RenalCalculators';
 import Osmolarity from '../components/Osmolaridad';
 import HasBled from '../components/HasBled';
 import ChadsVasc from '../components/ChadsVasc';
 import SOFA from '../components/sofa';
 import QSOFA from '../components/qSofa';
-import AnionGap from '../components/a-gap';
 import AaGradient from '../components/alv-art-grad';
 import Electro from '../components/electrolitos';
 import AcidBase from '../components/pH';
@@ -159,22 +153,19 @@ function Numbers(){
             <Tab label="Puntaje de Wells (TVP)" />
             <Tab label="CURB-65 (Neumonía)" />
             
-            {/* 8-11: Renal */}
-            <Tab label="Aclaramiento de creatinina (Cockcroft-Gault)" />
-            <Tab label="CKD-EPI (2021)" />
-            <Tab label="TFG MDRD" />
+            {/* 8-9: Renal */}
+            <Tab label="Función Renal (TFG / Aclaramiento)" />
             <Tab label="Osmolaridad" />
             
-            {/* 12-13: Cardiac Risk */}
+            {/* 10-11: Cardiac Risk */}
             <Tab label="HAS-BLED" />
             <Tab label="CHA₂DS₂-VASc" />
             
-            {/* 14-15: Sepsis */}
+            {/* 12-13: Sepsis */}
             <Tab label="Puntaje SOFA" />
             <Tab label="qSOFA" />
             
-            {/* 16-19: Metabolic & Lab */}
-            <Tab label="Brecha Aniónica" />
+            {/* 14-16: Metabolic & Lab */}
             <Tab label="Gradiente A-a" />
             <Tab label="Panel de Electrolitos" />
             <Tab label="Analizador de Gases Arteriales (ABG)" />
@@ -236,24 +227,21 @@ function Numbers(){
           {value === 7 && <Curb65 />}
           
           {/* Renal */}
-          {value === 8 && <RenalCockcroft />}
-          {value === 9 && <RenalCKDEPI />}
-          {value === 10 && <RenalMDRD />}
-          {value === 11 && <Osmolarity />}
+          {value === 8 && <RenalCalculators />}
+          {value === 9 && <Osmolarity />}
           
           {/* Cardiac Risk */}
-          {value === 12 && <HasBled />}
-          {value === 13 && <ChadsVasc />}
+          {value === 10 && <HasBled />}
+          {value === 11 && <ChadsVasc />}
           
           {/* Sepsis */}
-          {value === 14 && <SOFA />}
-          {value === 15 && <QSOFA />}
+          {value === 12 && <SOFA />}
+          {value === 13 && <QSOFA />}
           
           {/* Metabolic & Lab */}
-          {value === 16 && <AnionGap />}
-          {value === 17 && <AaGradient />}
-          {value === 18 && <Electro />}
-          {value === 19 && <AcidBase />}
+          {value === 14 && <AaGradient />}
+          {value === 15 && <Electro />}
+          {value === 16 && <AcidBase />}
         </Box>
 
       </Box>

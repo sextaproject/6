@@ -38,7 +38,7 @@ const ChadsVasc = () => {
         }
         return { 
             text: 'Alto Riesgo (≥2)', 
-            desc: 'Se recomienda anticoagulación oral fuerte.', 
+            desc: 'Se recomienda anticoagulación oral plena.', 
             color: 'error' 
         };
     };
@@ -55,7 +55,7 @@ const ChadsVasc = () => {
                         <Typography variant="h5" color="primary" sx={{ fontFamily: 'Orbitron' }}>
                             CHA₂DS₂-VASc
                         </Typography>
-                        <Typography variant="caption">Atrial Fibrillation Stroke Risk</Typography>
+                        <Typography variant="caption">Accidente Cerebrovascular en Fibrilación Auricular</Typography>
                     </Box>
                 </Box>
                 <Chip label={`Score: ${totalScore}`} color={result.color} sx={{ fontSize: '1.2rem', fontWeight: 'bold' }} />
@@ -64,7 +64,7 @@ const ChadsVasc = () => {
             <Box sx={{ mb: 3, p: 2, bgcolor: 'background.default', borderRadius: 2 }}>
                 
                 <FormControl component="fieldset" sx={{ mb: 2, width: '100%' }}>
-                    <FormLabel component="legend" sx={{ fontWeight: 'bold' }}>Edad (Age)</FormLabel>
+                    <FormLabel component="legend" sx={{ fontWeight: 'bold' }}>Edad</FormLabel>
                     <RadioGroup row value={age} onChange={(e) => setAge(parseInt(e.target.value))}>
                         <FormControlLabel value={0} control={<Radio />} label="< 65" />
                         <FormControlLabel value={1} control={<Radio />} label="65 – 74 (+1)" />
@@ -92,7 +92,7 @@ const ChadsVasc = () => {
             />
 
             <BinaryRow 
-                title="H - Hipertensión" 
+                title="H - ipertensión" 
                 subtitle="Tratada o consistente > 140/90" 
                 points={1} 
                 value={history.htn} 
@@ -100,7 +100,7 @@ const ChadsVasc = () => {
             />
 
             <BinaryRow 
-                title="D - Diabetes Mellitus" 
+                title="D - iabetes Mellitus" 
                 subtitle="Tratada con dieta o medicación" 
                 points={1} 
                 value={history.diabetes} 
@@ -108,7 +108,7 @@ const ChadsVasc = () => {
             />
 
             <BinaryRow 
-                title="S₂ - Stroke / TIA" 
+                title="S₂ - Stroke / AIT" 
                 subtitle="Historia de Ictus, AIT o Tromboembolismo" 
                 points={2} 
                 value={history.stroke} 

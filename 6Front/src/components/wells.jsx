@@ -129,9 +129,7 @@ const WellsPE = () => {
                 </Box>
             ))}
 
-            <Box sx={{ bgcolor: 'background.default', p: 3, borderRadius: 2, textAlign: 'center', border: '1px solid', borderColor: 'divider' }}>
-                <Typography variant="h6" color="text.secondary">Interpretación</Typography>
-                
+            <Box sx={{ bgcolor: 'background.default', p: 3, borderRadius: 2, textAlign: 'center', border: '1px solid', borderColor: 'divider' }}>                
                 <Typography variant="h4" color={result.color + '.main'} sx={{ fontWeight: 'bold', mt: 1 }}>
                     {result.text}
                 </Typography>
